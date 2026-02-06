@@ -1,0 +1,1261 @@
+input,target,dificultad,nivel
+"### Instrucción:
+¿Cuál fue el % PP mínimo en la comunidad de La Rioja en Noviembre 2019?
+
+### Contexto:
+Año: Noviembre 2019, Ámbito: comunidad, Variable: % PP
+
+### Respuesta:",El % PP mínimo en la comunidad de La Rioja en Noviembre 2019 fue de 10.00% en la sección (022019111162615301001).,2,nivel2
+"### Instrucción:
+¿A qué CCAA pertenece la seccion 0802202003 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 0802202003 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",La sección 0802202003 en las elecciones de Noviembre 2019 pertenece a la CCAA Cataluña.,1,nivel1
+"### Instrucción:
+¿Cómo evolucionó el porcentaje de voto a VOX en Torre Val de San Pedro entre Noviembre 2019 y Abril 2019?
+
+### Contexto:
+Municipio: Torre Val de San Pedro, Partido: VOX, Años: Noviembre 2019 y Abril 2019
+
+### Respuesta:",El VOX en Torre Val de San Pedro pasó de 8.13% en Noviembre 2019 a 6.25% en Abril 2019. Esto representa una disminución de 1.88 puntos porcentuales (23.1% menos).,2,nivel2
+"### Instrucción:
+¿Cuál es el resultado de la columna Cuarto en la sección 1808703034 en la elección Abril 2019?
+
+### Contexto:
+Datos de 1808703034 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna Cuarto de la sección 1808703034 en la elección Abril 2019 es Cs,1,nivel1
+"### Instrucción:
+¿Cuál fue el cambio porcentual del voto a PP en Ferreruela de Huerva entre las elecciones de Noviembre 2019 y Abril 2019?
+
+### Contexto:
+Municipio: Ferreruela de Huerva, Partido: PP, Años: Noviembre 2019->Abril 2019
+
+### Respuesta:",El PP en Ferreruela de Huerva pasó de 12.50% en porcentaje de voto en la elección Noviembre 2019 al 21.43% en Abril 2019. Esto representa un cambio del +71.4% (de incremento porcentual).,2,nivel2
+"### Instrucción:
+¿Qué porcentaje de afiliados de SS hubo en la seccion 3501604013 en las elecciones de Abril 2019?
+
+### Contexto:
+Datos de 3501604013 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El porcentaje de afiliados de SS en la sección 3501604013 en las elecciones de Abril 2019 fue del 12202.99%.,1,nivel1
+"### Instrucción:
+¿Cuántos votos consiguió el PP en la seccion 3727405013 en las elecciones de Abril 2019?
+
+### Contexto:
+Datos de 3727405013 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El PP en la sección 3727405013 en las elecciones de Abril 2019 obtuvo 136 votos.,1,nivel1
+"### Instrucción:
+¿Qué porcentaje de afiliados de SS hubo en la seccion 2705501001 en las elecciones de Abril 2019?
+
+### Contexto:
+Datos de 2705501001 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El porcentaje de afiliados de SS en la sección 2705501001 en las elecciones de Abril 2019 fue del 28.48%.,1,nivel1
+"### Instrucción:
+¿Qué diferencia hay entre Cs y PSOE en el municipio La Colilla en Abril 2019?
+
+### Contexto:
+Año: Abril 2019, Partidos: Cs y PSOE, Ámbito: municipio
+
+### Respuesta:","En la elección de Abril 2019 en el municipio La Colilla, el partido Cs obtuvo el 20.67%, y el partido PSOE obtuvo el 37.98%. La diferencia es de 17.31 puntos porcentuales a favor de PSOE.",2,nivel2
+"### Instrucción:
+¿Cuál fue el cambio porcentual del voto a PP en Mediona entre las elecciones de Noviembre 2019 y Abril 2019?
+
+### Contexto:
+Municipio: Mediona, Partido: PP, Años: Noviembre 2019->Abril 2019
+
+### Respuesta:",El PP en Mediona pasó de 3.91% en porcentaje de voto en la elección Noviembre 2019 al 2.47% en Abril 2019. Esto representa un cambio del -36.9% ( de disminución porcentual).,2,nivel2
+"### Instrucción:
+¿Qué partido ganó las elecciones en 2800601014 en Abril 2019?
+
+### Contexto:
+Datos de 2800601014 en Abril 2019: 1 secciones electorales
+
+### Respuesta:","El las elecciones de Abril 2019, el ganador en la sección 2800601014 fue el partido PSOE.",1,nivel1
+"### Instrucción:
+¿A qué provincia pertenece la sección 4109103013 en la elección Abril 2019 y cuál es su renta salarios 2018?
+
+### Contexto:
+Datos de 4109103013 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La sección 4109103013 en la elección Abril 2019 pertenece a la provincia Sevilla y su renta de salarios 2018 es de 10970.0.,1,nivel1
+"### Instrucción:
+¿Cuántos votos consiguió el PP en la seccion 4510101001 en las elecciones de Noviembre 2019?
+
+### Contexto:
+Datos de 4510101001 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El PP en la sección 4510101001 en las elecciones de Noviembre 2019 obtuvo 244 votos.,1,nivel1
+"### Instrucción:
+¿Qué partido quedó en segundo lugar en la seccion 4103202002 en las elecciones de Noviembre 2019 y qué porcentaje obtuvo?
+
+### Contexto:
+Datos de 4103202002 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El segundo lugar en la sección 4103202002 en las elecciones de Noviembre 2019 fue el partido VOX.,1,nivel1
+"### Instrucción:
+¿Qué relación hay entre % Cs y Renta Pensiones 2018 en los municipios?
+
+### Contexto:
+Variables: % Cs y Renta Pensiones 2018
+
+### Respuesta:","Analizando 10 municipios, los que tienen mayor Renta Pensiones 2018 tienen un % Cs de 0.0%, mientras que los de menor Renta Pensiones 2018 tienen 0.1%. Esto sugiere una relación negativa: a mayor Renta Pensiones 2018, menor % Cs.",2,nivel2
+"### Instrucción:
+¿Cuál fue el porcentaje de mayores de 65 años en la sección 4801308005 en la elección Abril 2019 y cuál fue la renta hogar 2017?
+
+### Contexto:
+Datos de 4801308005 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El porcentaje de mayores de 65 años en la sección 4801308005 en la eleccion de Abril 2019 fue del 32.45% y la renta hogar 2017 fue de 25430.0.,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna Compromis en la sección 4802007034 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 4802007034 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna Compromis de la sección 4802007034 en la elección Noviembre 2019 es 0,1,nivel1
+"### Instrucción:
+¿En qué provincia fue mayor Participación en la elección de Noviembre 2019: Tarragona o Ceuta?
+
+### Contexto:
+Año: Noviembre 2019, Variable: Participación
+
+### Respuesta:","En Noviembre 2019, Participación fue mayor en Tarragona. Valores: Tarragona: 70.19%, Ceuta: 56.20%.",2,nivel2
+"### Instrucción:
+¿A qué municipio pertenece la seccion 1404301002 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 1404301002 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",La sección 1404301002 en las elecciones de Noviembre 2019 pertenece al municipio Montoro.,1,nivel1
+"### Instrucción:
+¿Cuál fue el porcentaje de mayores de 65 años en la sección 2807910061 en la elección Abril 2019 y cuál fue la renta hogar 2017?
+
+### Contexto:
+Datos de 2807910061 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El porcentaje de mayores de 65 años en la sección 2807910061 en la eleccion de Abril 2019 fue del 22.01% y la renta hogar 2017 fue de 22609.0.,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna Ganador en la sección 1402109029 en la elección Abril 2019?
+
+### Contexto:
+Datos de 1402109029 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna Ganador de la sección 1402109029 en la elección Abril 2019 es PSOE,1,nivel1
+"### Instrucción:
+¿A qué municipio pertenece la seccion 4890202008 en la elección Abril 2019?
+
+### Contexto:
+Datos de 4890202008 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La sección 4890202008 en las elecciones de Abril 2019 pertenece al municipio Erandio.,1,nivel1
+"### Instrucción:
+Considerando los datos de las 10 secciones censales proporcionadas, analice la relación entre la fragmentación del voto hacia partidos de centro-derecha (PP, Cs, VOX) y el nivel socioeconómico (medido por la renta personal), evaluando si existe un patrón geográfico diferencial entre las grandes áreas metropolitanas (Barcelona, Madrid) y las capitales de provincia de regiones menos urbanizadas (Ciudad Real, Murcia). Calcule la correlación entre la suma del apoyo a PP, Cs y VOX y la renta personal para todo el conjunto, y luego compárela con la correlación observada solo en las secciones de las provincias de Madrid y Barcelona. Finalmente, interprete estos hallazgos a la luz de la conocida paradoxa de que en España, a diferencia de otros países europeos, el voto de derechas no siempre se correlaciona positivamente con mayores ingresos, especialmente en contextos urbanos.
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","Para abordar esta pregunta compleja, realizaremos un análisis en tres fases: cálculo de la fragmentación de centro-derecha, análisis de correlaciones y evaluación geográfica. **1. Cálculo de la variable ""Voto Centro-Derecha"" (VCD) y estadísticas por sección:** Defino VCD = %PP + %Cs + %VOX para cada municipio/sección. Los resultados son: *   Barcelona (1): 0.1 + 0.1 + 0.0 = 0.2 (Renta: 18962) *   Barcelona (2): 0.2 + 0.1 + 0.1 = 0.4 (Renta: 30210) *   Barcelona (3): 0.1 + 0.0 + 0.0 = 0.1 (Renta: 19593) *   Ciudad Real: 0.2 + 0.2 + 0.1 = 0.5 (Renta: 13888) *   Madrid: 0.1 + 0.2 + 0.1 = 0.4 (Renta: 21615) *   Tolosa: 0.1 + 0.0 + 0.0 = 0.1 (Renta: 16957) *   S.S. Reyes (Madrid): 0.2 + 0.3 + 0.2 = 0.7 (Renta: 17628) *   Laudio (Álava): 0.1 + 0.0 + 0.0 = 0.1 (Renta: 13768) *   Palma: 0.2 + 0.0 + 0.2 = 0.4 (Renta: 14777) *   Murcia: 0.3 + 0.1 + 0.2 = 0.6 (Renta: 14462) **2. Análisis de Correlación:** *   **Conjunto Total (10 observaciones):** La correlación (Pearson) entre VCD y Renta Personal es **-0.39**. Esto indica una tendencia moderadamente inversa a nivel global en esta muestra: a mayor renta, menor agregado de voto centro-derecha. *   **Submuestra Madrid y Barcelona (5 observaciones):** Incluye las tres secciones de Barcelona, Madrid capital y San Sebastián de los Reyes. La correlación aquí es **+0.65**. Esto revela un patrón opuesto y más fuerte en las grandes metrópolis: a mayor renta, mayor apoyo a partidos de centro-derecha. **3. Interpretación y Síntesis Contextual:** Los hallazgos cuantitativos ilustran perfectamente la complejidad del comportamiento electoral español respecto al eje socioeconómico. *   **Patrón Metropolitano (Correlación +0.65):** En Barcelona y Madrid, se observa el patrón ""clásico"" europeo, donde los barrios o secciones con mayor renta (como la sección de Barcelona con 30.210€) apoyan más a las formaciones de centro-derecha. Esto puede atribuirse a la estructura social de las grandes ciudades, con una clase media-alta y alta más identificada con propuestas económicas liberales y conservadoras. La alta fragmentación entre PP, Cs y VOX en estas áreas (ej. 0.7 en S.S. Reyes) refleja la competencia intrascendente por un electorado similar. *   **Patrón No Metropolitano / Nacional (Correlación -0.39):** A nivel general de la muestra, la correlación se invierte. Ciudades como Murcia, Ciudad Real o Palma, con rentas más bajas (entre 13.888€ y 14.462€), presentan los agregados de voto centro-derecha más altos (0.5 a 0.6). Esto refleja la **paradoja histórica española**: el voto conservador tiene una base territorial muy sólida en regiones menos urbanizadas y con menor renta media, a menudo ligada a identidades regionales, estructuras clientelares tradicionales o un electorado más envejecido (aunque este último factor no se capta en nuestros datos, ya que % mayores 65 es 0 en todas las secciones). *   **Conclusión:** El análisis confirma que la relación entre renta y voto a la derecha en España **no es lineal ni uniforme**, sino que está **mediada por el factor geográfico-urbano**. Mientras en los núcleos urbanos principales se cumple la lógica socioeconómica ""clásica"", en el conjunto del país persiste una base popular y menos acomodada para el centro-derecha, particularmente para el PP. Esta dualidad explica en parte la volatilidad electoral y la dificultad de articular mayorías estables, ya que las coaliciones de centro-derecha deben conciliar intereses y realidades socioeconómicas muy dispares. La fragmentación del voto (entre PP, Cs y VOX) es alta en ambos contextos, pero probablemente por motivos diferentes: en las ciudades, por competencia ideológica dentro de un estrato alto; en otras zonas, por la emergencia de VOX captando votantes desencantados del PP tradicional.",3,nivel3
+"### Instrucción:
+¿Cuál fue el cambio porcentual del voto a UP en Almogía entre las elecciones de Noviembre 2019 y Abril 2019?
+
+### Contexto:
+Municipio: Almogía, Partido: UP, Años: Noviembre 2019->Abril 2019
+
+### Respuesta:",El UP en Almogía pasó de 10.04% en porcentaje de voto en la elección Noviembre 2019 al 11.56% en Abril 2019. Esto representa un cambio del +15.2% (de incremento porcentual).,2,nivel2
+"### Instrucción:
+Considerando los datos de los municipios de la provincia de Valencia, ¿cómo se relaciona la renta personal media (2017) con el apoyo electoral al Partido Popular (PP) y al Partido Socialista (PSOE), y qué mecanismos socioeconómicos podrían explicar esta relación? Incluya en su análisis una evaluación de la heterogeneidad geográfica observada y las posibles implicaciones para políticas públicas de cohesión.
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","Un análisis de los datos muestra una relación diferenciada y no lineal entre la renta personal y el apoyo a los dos principales partidos. Para cuantificarlo, podemos observar los casos extremos: el municipio con la renta personal más alta (Cortes de Pallás, 12.585€) tiene un 40% de voto al PSOE y un 20% al PP, mientras que el de renta más baja (Requena, 10.252€) tiene un 30% para el PSOE y un 20% para el PP. Calculando la correlación básica para los 10 datos, se observa que los municipios con renta personal por encima de la media (μ=11.631,7€) no presentan un patrón uniforme. Por ejemplo, Oliva (12.439€) tiene un reparto igualitario PP/PSOE (20% cada uno), y Jalance (11.610€) es el único donde el PP (40%) dobla claramente al PSOE (30%). El PSOE muestra cierta fortaleza en municipios de renta media-baja (como Requena y Cheste) pero también en alguno de renta alta (Cortes de Pallás). Los posibles mecanismos causales que podrían explicar esta falta de una correlación fuerte y simple son: 1) **Efecto de la renta del hogar**: La renta personal puede estar enmascarada por la estructura familiar y la renta conjunta del hogar, que muestra mayor variabilidad (desde 22.797€ en Requena hasta 30.823€ en Vilallonga). Un municipio con renta personal moderada pero renta hogar alta podría reflejar economías domésticas con múltiples perceptores, moderando el malestar económico. 2) **Estructura económica local**: La composición sectorial (agrícola, turística, servicios) no capturada por estos datos puede ser un determinante más fuerte del voto que la renta agregada. 3) **Lealtades históricas y capital social**: Municipios como Cortes de Pallás, con fuerte tradición socialista, pueden mantener su voto pese a indicadores de renta favorables. La **heterogeneidad geográfica** es notable. El caso de Jalance (PP 40%) es un outlier que sugiere la existencia de dinámicas políticas locales muy específicas. Por otro lado, la ciudad de Valencia (con tres entradas de datos) muestra una gran estabilidad en el voto al PSOE (entre 20% y 30%) y al PP (entre 10% y 30%), independientemente de las fluctuaciones en renta personal dentro de la ciudad, lo que indica que en contextos urbanos otros factores (como oferta política municipal, composición de barrios) predominan. Las **implicaciones para políticas públicas** son significativas. La ausencia de una correlación lineal simple entre renta y voto sugiere que las políticas de cohesión no pueden basarse únicamente en indicadores de renta media municipal. Se necesitaría un enfoque **multidimensional y micro-territorial** que considere: a) La vulnerabilidad oculta dentro de municipios con renta media aceptable, b) El fortalecimiento de los servicios públicos (sanidad, transporte) que afectan a la calidad de vida más allá de la renta bruta, y c) Intervenciones específicas según la estructura económica local para mitigar los riesgos de desindustrialización o estacionalidad laboral, que son caldo de cultivo para opciones políticas de protesta, como se vislumbra en algunos apoyos a VOX. Una política efectiva requeriría diagnósticos socioeconómicos a escala sub-municipal o comarcal.",3,nivel3
+"### Instrucción:
+¿Cuántos votos totales hubo en la provincia de Palencia en Noviembre 2019?
+
+### Contexto:
+Elección: Noviembre 2019, Operación: suma
+
+### Respuesta:","En la provincia de Palencia en Noviembre 2019 hubo 96,490 votos totales.",2,nivel2
+"### Instrucción:
+¿Cuál fue el % PSOE máximo en la provincia de Huesca en Abril 2019?
+
+### Contexto:
+Año: Abril 2019, Ámbito: provincia, Variable: % PSOE
+
+### Respuesta:",El % PSOE máximo en la provincia de Huesca en Abril 2019 fue de 57.14% en la sección (022019041022221201001).,2,nivel2
+"### Instrucción:
+¿Cuál es el resultado de la columna edad_0-4 en la sección 0817401001 en la elección Abril 2019?
+
+### Contexto:
+Datos de 0817401001 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna edad_0-4 de la sección 0817401001 en la elección Abril 2019 es 28.0,1,nivel1
+"### Instrucción:
+¿Qué diferencia hay entre VOX y UP en la provincia de Valladolid en Noviembre 2019?
+
+### Contexto:
+Año: Noviembre 2019, Partidos: VOX y UP, Ámbito: provincia
+
+### Respuesta:","En la elección de Noviembre 2019 en la provincia de Valladolid, el partido VOX obtuvo el 18.24%, y el partido UP obtuvo el 9.84%. La diferencia es de 8.40 puntos porcentuales a favor de VOX.",2,nivel2
+"### Instrucción:
+Considerando los datos de los municipios de la provincia de Sevilla, ¿cómo se relaciona la renta por persona de 2017 con el porcentaje de voto al PSOE y la participación electoral? Analice específicamente si los municipios con renta por persona superior a la media provincial muestran un patrón de voto al PSOE significativamente diferente y una participación electoral distinta a los municipios con renta inferior a la media, e identifique cualquier caso atípico que desafíe esta tendencia general.
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","Para analizar esta relación, primero separemos los municipios según si su renta por persona (μ=9778.6 €) está por encima o por debajo de la media provincial. **Municipios con Renta por Persona > 9778.6 € (Alta renta):** 1.  Gines (13994 €): %PSOE=0.2, Participación=0.9 2.  Sevilla (17745 €): %PSOE=0.1, Participación=0.9 3.  Sevilla (11108 €): %PSOE=0.4, Participación=0.8 4.  Sevilla (10974 €): %PSOE=0.3, Participación=0.7 5.  Carrión de los Céspedes (7888 €): **NO, está por debajo. Se corrige.** *Media del grupo de alta renta para %PSOE:* (0.2 + 0.1 + 0.4 + 0.3) / 4 = 1.0 / 4 = **0.25** *Media del grupo de alta renta para Participación:* (0.9 + 0.9 + 0.8 + 0.7) / 4 = 3.3 / 4 = **0.825** **Municipios con Renta por Persona ≤ 9778.6 € (Baja renta):** 1.  Écija (7907 €): %PSOE=0.5, Participación=0.7 2.  Coria del Río (6366 €): %PSOE=0.5, Participación=0.6 3.  Sevilla (6561 €): %PSOE=0.6, Participación=0.7 4.  Los Palacios y Villafranca (7921 €): %PSOE=0.3, Participación=0.8 5.  Pedrera (7322 €): %PSOE=0.4, Participación=0.7 6.  Carrión de los Céspedes (7888 €): %PSOE=0.3, Participación=0.7 *Media del grupo de baja renta para %PSOE:* (0.5 + 0.5 + 0.6 + 0.3 + 0.4 + 0.3) / 6 = 2.6 / 6 ≈ **0.433** *Media del grupo de baja renta para Participación:* (0.7 + 0.6 + 0.7 + 0.8 + 0.7 + 0.7) / 6 = 4.2 / 6 = **0.70** **Interpretación de patrones:** 1.  **Voto al PSOE:** Existe una clara correlación negativa entre renta y voto al PSOE. Los municipios con renta más baja muestran un apoyo medio al PSOE del **43.3%**, casi 18 puntos porcentuales más alto que el apoyo medio en los municipios de renta alta (**25%**). Esto sugiere que, en esta muestra de Sevilla, el PSOE tiene una base electoral más sólida en zonas con menor renta individual. 2.  **Participación:** La participación electoral es significativamente mayor en los municipios de renta alta (**82.5%**) frente a los de renta baja (**70%**). Esta diferencia de 12.5 puntos refuerza la teoría clásica de que los niveles socioeconómicos más altos se correlacionan con una mayor participación cívica. 3.  **Caso atípico:** El distrito/municipio de ""Sevilla (11108 €)"" es un caso interesante. Aunque tiene una renta por persona superior a la media, su voto al PSOE (0.4) es igual a la media provincial general y mucho mayor que la de su grupo de renta alta. Esto indica una heterogeneidad interna en la capital, posiblemente relacionada con la composición social de distritos específicos, que modera la tendencia general. **Contexto político/social:** Este patrón es coherente con el perfil histórico del PSOE como partido con fuerte arraigo en las clases trabajadoras y zonas menos favorecidas, especialmente en Andalucía. La mayor participación en zonas ricas puede reflejar una mayor percepción de eficacia política o de intereses materiales que defender. La alta renta en Gines y en un distrito de Sevilla se asocia con un voto más fragmentado o con mayor apoyo a opciones de derecha (PP, Cs, VOX), como se observa en los datos brutos. **Limitaciones del análisis:** - La muestra es pequeña (10 entradas) y geográficamente limitada a una provincia. - La variable ""renta por persona"" es de 2017, pudiendo no reflejar la situación exacta en el momento electoral. - No se controlan otras variables cruciales como la edad, el tejido industrial o el entorno rural/urbano (aunque el % mayores de 65 es 0 en todos los casos, lo que sugiere datos anónimos o de un segmento específico). - Los datos de ""Sevilla"" aparecen repetidos sin identificar distritos, lo que impide un análisis granular de la capital.",3,nivel3
+"### Instrucción:
+¿A qué provincia pertenece la sección 5006401001 en la elección Abril 2019 y cuál es su renta salarios 2018?
+
+### Contexto:
+Datos de 5006401001 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La sección 5006401001 en la elección Abril 2019 pertenece a la provincia Zaragoza y su renta de salarios 2018 es de 8527.0.,1,nivel1
+"### Instrucción:
+¿Qué partido quedó en tercer lugar en la seccion 0401307026 en las elecciones de Noviembre 2019 y qué renta pensiones 2018 había?
+
+### Contexto:
+Datos de 0401307026 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El tercer lugar en la sección 0401307026 en las elecciones de Noviembre 2019 fue el partido VOX.,1,nivel1
+"### Instrucción:
+Considerando los datos de los municipios de la provincia de Madrid, ¿cómo se relaciona la renta personal media con el apoyo electoral al Partido Popular (PP) y al Partido Socialista (PSOE), y qué patrones geográficos o de composición municipal pueden inferirse al comparar los resultados de los distritos o secciones censales dentro del municipio de Madrid con los municipios del área metropolitana de menor renta, como Leganés o Rivas-Vaciamadrid? Realice un análisis que incluya la comparación de correlaciones, la desviación de la media provincial en las variables clave y la influencia potencial de la participación electoral.
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","Basándome en los datos proporcionados, se puede realizar el siguiente análisis multivariable: **Cálculos Específicos:** 1. **Correlación Renta Personal - Voto al PP:** Los datos muestran una correlación positiva clara. Por ejemplo, en la sección de Madrid con mayor renta personal (30.210€), el PP obtiene un 50% de los votos, muy por encima de su media provincial (μ=20%, σ=10%). En contraste, en Leganés (renta personal 8.016€, la más baja), el PP solo logra un 10%. La sección de Madrid con renta de 26.199€ también muestra un voto alto al PP (40%). El cálculo de la correlación para los puntos extremos sugiere una relación fuerte: a mayor renta, mayor porcentaje de voto al PP. 2. **Correlación Renta Personal - Voto al PSOE:** La relación es inversa. El PSOE alcanza su máximo (50%) en Leganés, el municipio con menor renta personal. En las secciones ricas de Madrid (con rentas de 30.210€ y 26.199€), el PSOE obtiene solo un 10%. En municipios de renta media-baja como Rivas-Vaciamadrid (12.776€) o Alcalá de Henares (15.520€), el PSOE se sitúa en el 30%, coincidiendo con la media provincial (μ=30%). 3. **Análisis Geográfico y de Composición Municipal:** *   **Municipio de Madrid (secciones internas):** Muestra una gran heterogeneidad socioeconómica y electoral. Las secciones con renta personal muy alta (30.210€, 26.199€) son bastiones del PP (40-50%) con un PSOE residual (10%). Las secciones con renta moderada-baja (entre 11.225€ y 13.852€) presentan un escenario más competitivo, con el PSOE (30%) ligeramente por encima del PP (20%) y con presencia de UP (10-20%). *   **Municipios Metropolitanos (Leganés, Rivas, Parla, Pinto):** Presentan una homogeneidad mayor, con rentas personales más bajas y agrupadas (entre 8.016€ y 12.776€). Aquí, el PSOE es claramente la fuerza dominante (30-50%), y el PP obtiene resultados bajos (10-20%). La presencia de UP (10-20%) es también más consistente que en las zonas ricas de Madrid, donde es nula (0%). 4. **Participación Electoral:** La participación es generalmente alta (μ=0.8), pero destaca la sección rica de Madrid con un 90% y, en el extremo opuesto, Leganés con solo un 60%. Esto podría indicar un efecto de desafección en áreas de menor renta, aunque con un solo dato atípico es arriesgado generalizar. **Interpretación de Patrones:** El patrón principal es una fuerte estratificación socioeconómica del voto. El PP demuestra ser el partido de las rentas altas dentro de la capital, mientras que el PSOE, a menudo en competencia con UP, domina en los municipios metropolitanos y distritos de renta baja-media. La geografía refleja esta división: el centro de poder económico (ciertas secciones de Madrid) vota masivamente a la derecha, mientras que la periferia metropolitana, con rentas más bajas, se inclina hacia la izquierda. Cs y VOX muestran una presencia más transversal, sin un patrón claro ligado a la renta en esta muestra. **Contexto Político/Social:** Este patrón es coherente con la tradicional división centro-periferia en el área metropolitana de Madrid y con la base social de ambos partidos. El PP tiene su núcleo duro en barrios y zonas residenciales de alta renta, mientras que el PSOE (y sus aliados a la izquierda) mantienen una fuerte implantación en ciudades dormitorio y áreas de clase trabajadora. La alta participación en zonas ricas podría reflejar una mayor movilización de un electorado con más recursos y mayor interés en mantener el statu quo. **Limitaciones del Análisis:** 1. La muestra es muy pequeña (10 observaciones) y no todos los municipios de Madrid están representados, por lo que las correlaciones calculadas son indicativas, no concluyentes. 2. Todos los datos de ""% mayores 65 años"" son 0, lo que imposibilita analizar el crucial factor de la edad, clave en el comportamiento electoral. 3. Los datos electorales y socioeconómicos no están desagregados por tiempo (solo 2017 para renta), por lo que no se puede analizar evolución. 4. No se dispone de datos absolutos de población o número de votantes, solo porcentajes, lo que limita el peso relativo de cada sección/municipio en el total. 5. El análisis de ""secciones dentro de Madrid"" se infiere de múltiples entradas para ""Mun: Madrid"", pero no se especifica si son distritos o secciones censales, lo que añade ambigüedad geográfica.",3,nivel3
+"### Instrucción:
+¿Qué porcentaje de votos obtuvo el PP en la sección 0901201001 en las elecciones de Noviembre 2019?
+
+### Contexto:
+Datos de 0901201001 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El partido PP obtuvo en la sección 0901201001 el 35.29% de votos en las eleccione de Noviembre 2019.,1,nivel1
+"### Instrucción:
+¿Qué diferencia hay entre Cs y PP en la provincia de Gerona en Abril 2019?
+
+### Contexto:
+Año: Abril 2019, Partidos: Cs y PP, Ámbito: provincia
+
+### Respuesta:","En la elección de Abril 2019 en la provincia de Gerona, el partido Cs obtuvo el 8.23%, y el partido PP obtuvo el 3.16%. La diferencia es de 5.06 puntos porcentuales a favor de Cs.",2,nivel2
+"### Instrucción:
+Considerando la distribución de votos y las variables socioeconómicas proporcionadas, analice la relación entre la fragmentación del voto a la derecha del PSOE (calculada como 1 - (%PSOE + %UP)) y la renta por hogar. ¿En qué municipios esta fragmentación se desvía significativamente del patrón general y cómo se correlaciona esto con la participación electoral? Proponga una métrica de ""competitividad de la derecha"" y úsela para clasificar los escenarios políticos municipales.
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","**Análisis Cuantitativo y Contextual** 1.  **Cálculo de la Fragmentación del Voto a la Derecha del PSOE:** Esta métrica representa el espacio electoral no ocupado por las dos principales fuerzas de centro-izquierda (PSOE y UP). Se calcula como `Fragmentación Derecha = 1 - (%PSOE + %UP)`. Los resultados son: *   A Coruña: 1 - (0.4 + 0.2) = 0.4 *   Zamayón: 1 - (0.3 + 0.1) = 0.6 *   Doña Mencía: 1 - (0.4 + 0.4) = 0.2 *   Los Alcázares: 1 - (0.3 + 0.1) = 0.6 *   Montoro: 1 - (0.6 + 0.1) = 0.3 *   El Carpio: 1 - (0.3 + 0.2) = 0.5 *   Chiclana: 1 - (0.2 + 0.1) = 0.7 *   Terrassa: 1 - (0.4 + 0.2) = 0.4 *   Madrid: 1 - (0.4 + 0.2) = 0.4 *   Fuengirola: 1 - (0.3 + 0.1) = 0.6 2.  **Relación con la Renta por Hogar y Desviaciones:** Observando los datos, no existe una correlación lineal simple. Por ejemplo, Zamayón (renta hogar 19.9k, fragmentación 0.6) y Fuengirola (renta hogar 25.2k, fragmentación 0.6) tienen alta fragmentación con rentas medias-altas, mientras que Terrassa (renta hogar 37.2k, la más alta) tiene una fragmentación media (0.4). Los **casos que se desvían significativamente** del patrón de mayor renta asociada a menor fragmentación son: *   **Doña Mencía (Córdoba):** Con una renta por hogar superior a la media (22.5k), presenta la fragmentación más baja (0.2). Esto indica un electorado muy polarizado entre PSOE (0.4) y UP (0.4), con escaso espacio para partidos de derecha/centro-derecha, un patrón atípico que sugiere una dinámica política local muy anclada en la izquierda. *   **Chiclana de la Frontera (Cádiz):** Con una renta por hogar similar a Doña Mencía (22.4k), tiene la fragmentación más alta (0.7). Aquí, el voto de derechas (PP 0.2, VOX 0.3, Cs 0.1) es muy competitivo y supera al bloque de izquierdas (PSOE 0.2 + UP 0.1). Es un claro ejemplo de **realineamiento electoral**, donde la derecha, especialmente VOX, captura el voto predominante. 3.  **Correlación con la Participación Electoral:** La participación es notablemente más alta en municipios con alta fragmentación de derechas y, por tanto, mayor competitividad. **Zamayón** (fragmentación 0.6, participación 0.9) es el caso extremo. Chiclana y Fuengirola (fragmentación 0.6-0.7, participación 0.7-0.8) también muestran participaciones en la media-alta. Esto sugiere que una oferta de derecha fragmentada pero vigorosa moviliza al electorado. En cambio, en Doña Mencía (fragmentación 0.2, participación 0.7), la alta participación se explica por la intensa competencia *dentro* del bloque de izquierdas (PSOE vs. UP). 4.  **Métrica de ""Competitividad de la Derecha"" y Clasificación de Escenarios:** Propongo el **Índice de Competitividad Efectiva de la Derecha (ICED)**, que pondera la fragmentación por la fuerza del partido líder de ese espacio: `ICED = Fragmentación Derecha * (% del partido de derecha más votado)`. *   **ICED Alto (>0.15): Competencia Fuerte y Fragmentada.** Ejemplo: Chiclana (0.7 * 0.3(VOX) = 0.21). La derecha es hegemónica pero con lucha interna. *   **ICED Medio (0.05-0.15): Competencia Moderada o Concentrada.** Ejemplo: Los Alcázares (0.6 * 0.2(PP) = 0.12). El espacio de derechas es amplio pero sin un claro dominador. Zamayón (0.6 * 0.2(PP) = 0.12) entra aquí. *   **ICED Bajo (<0.05): Hegemonía de Izquierdas o Derecha Testimonial.** Ejemplo: Doña Mencía (0.2 * 0.1(PP) = 0.02). El bloque de izquierdas domina abrumadoramente. Montoro (0.3 * 0.1(PP) = 0.03) también. **Conclusión Sintética:** Los datos muestran que la relación entre estructura socioeconómica (renta) y comportamiento electoral es mediada por dinámicas políticas territoriales. La fragmentación del voto a la derecha del PSOE es un mejor predictor de la participación que la renta por sí sola. El ICED revela tres escenarios: municipios donde la derecha, a pesar de estar dividida, es hegemónica y movilizadora (Cádiz, Salamanca); municipios de batalla interna dentro de la derecha (Murcia, Málaga);",3,nivel3
+"### Instrucción:
+¿A qué municipio pertenece la seccion 2702805004 en la elección Abril 2019?
+
+### Contexto:
+Datos de 2702805004 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La sección 2702805004 en las elecciones de Abril 2019 pertenece al municipio Lugo.,1,nivel1
+"### Instrucción:
+¿Cuáles son las 3 provincias con mayor % Cs en la elección de Noviembre 2019?
+
+### Contexto:
+Año: Noviembre 2019, Variable: % Cs, Top: 3
+
+### Respuesta:","Las 3 provincias con mayor % Cs en la elección de Noviembre 2019 son: 1. Cádiz (0.09%), 2. Madrid (0.09%), 3. Málaga (0.08%)",2,nivel2
+"### Instrucción:
+¿Cómo evolucionó el porcentaje de voto a PSOE en Bustillo del Oro entre Noviembre 2019 y Abril 2019?
+
+### Contexto:
+Municipio: Bustillo del Oro, Partido: PSOE, Años: Noviembre 2019 y Abril 2019
+
+### Respuesta:",El PSOE en Bustillo del Oro pasó de 5.36% en Noviembre 2019 a 6.45% en Abril 2019. Esto representa un incremento de 1.09 puntos porcentuales (20.4% más).,2,nivel2
+"### Instrucción:
+¿Cuál es el resultado de la columna UPyD en la sección 4603102002 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 4603102002 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna UPyD de la sección 4603102002 en la elección Noviembre 2019 es 0,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna edad_0-4 en la sección 2901506002 en la elección Abril 2019?
+
+### Contexto:
+Datos de 2901506002 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna edad_0-4 de la sección 2901506002 en la elección Abril 2019 es 38.0,1,nivel1
+"### Instrucción:
+¿Cuál es la proporción de censo electoral del municipio de La Unión en la provincia de Murcia y en la comunidad de Murcia?
+
+### Contexto:
+Elección: Abril 2019, Operación: proporcion
+
+### Respuesta:",El municipio de La Unión representa el 1.4% del censo en la provincia de Murcia y el 100.0% del censo de la comunidad Murcia,2,nivel2
+"### Instrucción:
+¿A qué CCAA pertenece la seccion 4019401004 en la elección Abril 2019?
+
+### Contexto:
+Datos de 4019401004 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La sección 4019401004 en las elecciones de Abril 2019 pertenece a la CCAA Castilla y León.,1,nivel1
+"### Instrucción:
+¿Cuál fue el porcentaje de mayores de 65 años en la sección 0801905060 en la elección Abril 2019 y cuál fue la renta hogar 2017?
+
+### Contexto:
+Datos de 0801905060 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El porcentaje de mayores de 65 años en la sección 0801905060 en la eleccion de Abril 2019 fue del 21.48% y la renta hogar 2017 fue de 86006.0.,1,nivel1
+"### Instrucción:
+¿Cuál fue el Participación mediano en la provincia de Islas Baleares en Noviembre 2019?
+
+### Contexto:
+Año: Noviembre 2019, Ámbito: provincia, Variable: Participación
+
+### Respuesta:",El Participación mediano en la provincia de Islas Baleares en Noviembre 2019 fue de 59.09%.,2,nivel2
+"### Instrucción:
+¿Cuántos votos totales hubo en la provincia de Castellón en Noviembre 2019?
+
+### Contexto:
+Elección: Noviembre 2019, Operación: suma
+
+### Respuesta:","En la provincia de Castellón en Noviembre 2019 hubo 296,413 votos totales.",2,nivel2
+"### Instrucción:
+¿Cuál es el resultado de la columna % Paro Hombres en la sección 1101402002 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 1101402002 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna % Paro Hombres de la sección 1101402002 en la elección Noviembre 2019 es 0.4341954022988505,1,nivel1
+"### Instrucción:
+¿Cuál es el tamaño del censo y la población total de la sección 2807917066 en la elección Abril 2019?
+
+### Contexto:
+Datos de 2807917066 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El censo en la sección 2807917066 en la elección de Abril 2019 fue de 691 habitantes y la población total fue de 1255.0.,1,nivel1
+"### Instrucción:
+Considerando los datos de muestra de las elecciones generales de abril de 2019, analice las tendencias geográficas en el apoyo a los partidos de centro-derecha (PP y Cs) frente a los de izquierda (PSOE y UP) en las principales ciudades españolas. Identifique patrones regionales, correlacione estos patrones con variables socioeconómicas clave (renta personal y participación) y discuta las implicaciones para la fragmentación del voto en entornos urbanos.
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","El análisis de los datos muestra patrones geográficos claros en el apoyo a las distintas familias políticas en las principales ciudades. En términos agregados, el voto a partidos de centro-derecha (PP + Cs) presenta una media del 30% (μ_PP=0.2 + μ_Cs estimado ~0.1), mientras que el bloque de izquierda (PSOE + UP) alcanza aproximadamente el 40% (μ_PSOE=0.2 + μ_UP estimado ~0.2). Sin embargo, la distribución geográfica revela variaciones significativas. Se identifican tres patrones regionales principales: 1. **Área metropolitana de Madrid**: Se observa una alta fragmentación y competitividad. En el municipio de Madrid, el bloque de izquierda (PSOE 0.4 + UP 0.2 = 0.6) domina claramente sobre la centro-derecha (PP 0.1 + Cs 0.2 = 0.3). En contraste, en San Sebastián de los Reyes, la centro-derecha (PP 0.2 + Cs 0.3 = 0.5) supera a la izquierda (PSOE 0.2 + UP 0.1 = 0.3). Esta variación intra-provincial no se correlaciona fuertemente con la renta personal (21.615€ vs 17.628€), pero sí con una mayor presencia de VOX y Cs en el segundo municipio, indicando un voto más fragmentado y volátil en la periferia metropolitana. 2. **Ciudades mediterráneas y del sureste**: En Murcia y Palma, encontramos un escenario de alta fragmentación multipartidista. En Murcia, PP (0.3) y PSOE (0.3) están empatados, con VOX (0.2) como tercer actor relevante. En Palma, la izquierda (PSOE 0.2 + UP 0.3 = 0.5) supera a la centro-derecha (PP 0.2 + Cs 0.0 = 0.2), pero con UP como fuerza principal. Estas ciudades presentan las rentas personales más bajas del conjunto (14.462€ y 14.777€ respectivamente) y en Palma una participación excepcionalmente baja (0.6), lo que sugiere que el descontento socioeconómico podría estar canalizándose a través de opciones de protesta tanto de izquierda como de derecha radical. 3. **Corredor norte y noreste**: Barcelona, Tolosa y Laudio/Llodio muestran un patrón más homogéneo, con un claro predominio del bloque de izquierda (en las tres muestras, PSOE+UP suman entre 0.2 y 0.3) sobre una centro-derecha muy débil (PP+Cs entre 0.1 y 0.2). Es notable la casi ausencia de VOX y Cs en estas zonas. Barcelona, a pesar de su alta renta en algunos distritos (hasta 30.210€ de renta personal), mantiene un voto mayoritariamente progresista, lo que rompe la correlación tradicional entre renta alta y voto conservador. **Factores explicativos y correlaciones**: - La **renta personal** muestra una correlación débil con el voto a bloques. Ciudades con rentas similares (como Murcia y Palma, ~14.600€) presentan resultados electorales muy diferentes. - La **participación** es generalmente alta (μ=0.8), excepto en Palma (0.6), lo que podría indicar desafección política en contextos de fragmentación extrema. - El patrón más fuerte es la **fragmentación territorial del sistema de partidos**: mientras en el norte el espacio político lo dominan PSOE y UP (con PP residual), en el sureste y Baleares emergen con fuerza VOX y, en menor medida, Cs, creando sistemas de cuatro o cinco partidos competitivos. **Implicaciones**: Estos datos de 2019, previos a la pandemia, ya muestran un mapa electoral urbano profundamente fragmentado y regionalizado. La desaparición posterior de Cs y la consolidación de VOX habrían acentuado esta tendencia, transformando las elecciones en una competición entre distintos sistemas de partidos según regiones. La gobernabilidad en los ayuntamientos de grandes ciudades requeriría, por tanto, coaliciones inéditas y volátiles, con pactos diferentes según la geografía política local. La desconexión entre indicadores socioeconómicos clásicos (como la renta) y el voto sugiere el ascenso de cleavages identitarios y culturales como factores explicativos más potentes en el contexto urbano.",3,nivel3
+"### Instrucción:
+¿Qué partido quedó en segundo lugar en la seccion 1625001001 en las elecciones de Abril 2019 y qué porcentaje obtuvo?
+
+### Contexto:
+Datos de 1625001001 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El segundo lugar en la sección 1625001001 en las elecciones de Abril 2019 fue el partido PSOE.,1,nivel1
+"### Instrucción:
+¿Cuál fue la renta de desempleo 2018 en la sección 4624401006 en las elecciones de Abril 2019 y qué partido resultó vencedor?
+
+### Contexto:
+Datos de 4624401006 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La renta de desempleo 2018 en la sección 4624401006 en las elecciones de Abril 2019 fue de 248.0.,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna CC en la sección 2807912002 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 2807912002 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna CC de la sección 2807912002 en la elección Noviembre 2019 es 0,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna Renta persona 2015 en la sección 1506503001 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 1506503001 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna Renta persona 2015 de la sección 1506503001 en la elección Noviembre 2019 es 9012.0,1,nivel1
+"### Instrucción:
+Considerando los datos proporcionados de 10 municipios españoles, analice la relación entre la estructura de la renta (personal y por hogar) y el comportamiento electoral, con especial foco en la fortaleza relativa del PSOE y la fragmentación del voto a la derecha (PP, VOX, Cs). ¿En qué tipo de municipios, definidos por su perfil socioeconómico y geográfico, el PSOE logra su mayor ventaja competitiva frente al bloque de derechas? Para responder, calcule y compare ratios clave, identifique outliers significativos y proponga una hipótesis explicativa que integre el contexto político nacional y las particularidades territoriales observadas.
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","**Análisis de la relación renta-comportamiento electoral y ventaja competitiva del PSOE** **1. Cálculos y Métricas Clave:** Para medir la ventaja del PSOE frente al bloque de derechas (definido como la suma de %PP, %VOX y %Cs) y su relación con la renta, se calculan las siguientes métricas por municipio: *   **Bloque Derecha (BD):** %PP + %VOX + %Cs *   **Ventaja PSOE (V_PSOE):** %PSOE - BD *   **Ratio Renta Hogar/Persona (RHP):** Renta Hogar 2017 / Renta Persona 2017. Este ratio aproxima el número de perceptores por hogar y, por tanto, la estructura familiar y las economías de escala. Los resultados son: | Mun (Prov)            | %PSOE | BD   | V_PSOE | Renta Pers. | Renta Hogar | RHP  | |-----------------------|-------|------|--------|-------------|-------------|------| | Lena (Asturias)       | 0.4   | 0.4  | 0.0    | 12146       | 24269       | 2.00 | | Laguna de Duero (Vall)| 0.3   | 0.5  | -0.2   | 13301       | 39611       | 2.98 | | Elche (Alicante)      | 0.2   | 0.7  | -0.5   | 13320       | 34524       | 2.59 | | Madrid (Madrid)       | 0.3   | 0.4  | -0.1   | 12931       | 37801       | 2.92 | | Donostia (Gipúzcoa)   | 0.3   | 0.1  | +0.2   | 11619       | 25330       | 2.18 | | Palma (Islas Baleares)| 0.2   | 0.5  | -0.3   | 12008       | 34671       | 2.89 | | Barcelona-1 (Barcelona)| 0.2   | 0.3  | -0.1   | 13353       | 33358       | 2.50 | | Barcelona-2 (Barcelona)| 0.2   | 0.2  | 0.0    | 13545       | 30003       | 2.21 | | Igualada (Barcelona)  | 0.2   | 0.2  | 0.0    | 13144       | 33815       | 2.57 | | El Vendrell (Tarragona)| 0.2   | 0.3  | -0.1   | 12124       | 29492       | 2.43 | **2. Identificación de Patrones y Outliers:** *   **Mayor Ventaja PSOE:** **Donostia (V_PSOE = +0.2)**. Es el único municipio donde el PSOE supera claramente al bloque de derechas. Le sigue Lena, con empate técnico (V_PSOE = 0.0). *   **Mayor Ventaja Bloque Derecha:** **Elche (V_PSOE = -0.5)**, un outlier claro donde la derecha triplica al PSOE. *   **Relación con Renta:** No existe una correlación lineal simple. Por ejemplo, Donostia (alta ventaja PSOE) tiene la renta personal más baja de la muestra (€11,619), mientras que Lena (empate) también está por debajo de la media. Sin embargo, municipios con renta personal alta (como los de Barcelona) no muestran una ventaja clara para el PSOE. *   **Relación con Estructura Familiar (RHP):** Los municipios con **RHP más bajo (≤2.2)** –Donostia (2.18), Barcelona-2 (2.21), Lena (2.00)– muestran ventajas nulas o positivas para el PSOE. En cambio, municipios con **RHP más alto (>2.8)** –Laguna de Duero (2.98), Madrid (2.92), Palma (2.89)– presentan ventajas claras para el bloque de derechas (-0.2, -0.1, -0.3 respectivamente). Esto sugiere que hogares con más perceptores (posiblemente familias tradicionales o multi-generacionales) tienden más a la derecha. **3. Hipótesis Explicativa y Síntesis:** El PSOE logra su mayor ventaja competitiva relativa en **municipios con estructuras familiares más pequeñas o atomizadas (bajo RHP) y, en este conjunto de datos, frecuentemente ubicados en territorios con identidad política propia fuerte (País Vasco, Asturias)**. *   **Contexto Territorial:** La excepcionalidad de **Donostia** se explica por el contexto vasco, donde el voto nacionalista (no desglosado en estos datos, pero que absorbería parte del voto de UP y otros) fragmenta el espacio político y donde el PSOE, como partido constitucionalista de centro-izquierda, puede capitalizar un electorado específico en un escenario multipolar. En **Lena (Asturias)**, el fuerte arraigo histórico socialista en zonas mineras e industriales explica su resistencia incluso con un perfil socioeconómico modesto. *   **Perfil Socioeconómico:** La aparente debilidad del PSOE en municipios de renta alta por hogar (alta RHP) como Laguna de Duero o zonas de Madrid refleja el tradicional *cleavage* de clase, donde la derecha conservadora tiene mayor penetración en núcle",3,nivel3
+"### Instrucción:
+¿A qué municipio pertenece la seccion 3727403009 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 3727403009 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",La sección 3727403009 en las elecciones de Noviembre 2019 pertenece al municipio Salamanca.,1,nivel1
+"### Instrucción:
+¿Qué partido quedó en segundo lugar en la seccion 0826001004 en las elecciones de Abril 2019 y qué porcentaje obtuvo?
+
+### Contexto:
+Datos de 0826001004 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El segundo lugar en la sección 0826001004 en las elecciones de Abril 2019 fue el partido UP.,1,nivel1
+"### Instrucción:
+¿Qué relación hay entre % VOX y % Afiliados SS autónomos en los municipios?
+
+### Contexto:
+Variables: % VOX y % Afiliados SS autónomos
+
+### Respuesta:","Analizando 10 municipios, los que tienen mayor % Afiliados SS autónomos tienen un % VOX de 0.2%, mientras que los de menor % Afiliados SS autónomos tienen 0.1%. Esto sugiere una relación positiva: a mayor % Afiliados SS autónomos, mayor % VOX.",2,nivel2
+"### Instrucción:
+Considerando los datos de los municipios de Granada (Las Gabias y Guadix) y el municipio de Júzcar (Málaga), analice la relación entre el apoyo a VOX, la participación electoral y la renta por hogar. ¿Existe un patrón discernible que sugiera que un menor nivel de renta familiar se asocia con un mayor voto a VOX en estas localidades, y cómo interactúa la participación en este contexto? Calcule las diferencias relativas y compárelas con las medias nacionales proporcionadas.
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","Para analizar esta relación, primero se extraen y calculan los datos relevantes de los tres municipios mencionados: 1.  **Las Gabias (Granada):** % VOX=0.3, Participación=0.6, Renta hogar=22.680€. 2.  **Guadix (Granada):** % VOX=0.2, Participación=0.7, Renta hogar=21.775€. 3.  **Júzcar (Málaga):** % VOX=0.4, Participación=0.8, Renta hogar=19.337€. **Cálculos y Análisis:** *   **Patrón Renta-VOX:** Se observa una correlación negativa clara dentro de esta muestra específica. A medida que disminuye la renta por hogar, el porcentaje de voto a VOX aumenta. *   Júzcar, con la renta más baja (19.337€, un -18.2% respecto a la media de los tres municipos [21.264€]), tiene el apoyo más alto a VOX (0.4). *   Las Gabias, con renta intermedia (22.680€), tiene un apoyo a VOX del 0.3. *   Guadix, con una renta más alta que Júzcar pero más baja que Las Gabias (21.775€), tiene el apoyo más bajo a VOX (0.2) de los tres. Este caso es una excepción al patrón lineal, sugiriendo que otros factores locales pueden estar influyendo. *   **Comparación con Medias Agregadas:** El apoyo a VOX en Júzcar (0.4) y Las Gabias (0.3) supera significativamente la media nacional de los datos proporcionados para VOX (que, aunque no se da explícitamente, se puede inferir que es notablemente inferior a 0.3 en la mayoría de municipios de la lista). La renta por hogar en estos tres municipios (media: 21.264€) está por debajo de la de otros en la muestra como Cartagena (26.017€) o Catarroja (24.544€). *   **Interacción con la Participación:** La participación electoral no sigue un patrón claro con las otras dos variables. Júzcar combina el máximo voto a VOX (0.4) con la máxima participación (0.8). Sin embargo, Guadix tiene una participación alta (0.7) con un voto a VOX relativamente bajo (0.2), y Las Gabias tiene la participación más baja (0.6) con un voto a VOX intermedio (0.3). Esto indica que, en este pequeño grupo, una alta participación no predice de forma unívoca un mayor o menor apoyo a VOX. **Interpretación y Contexto:** El patrón observado (mayor VOX en municipios con menor renta) en dos de los tres casos podría reflejar un fenómeno documentado en ciertas áreas: el atractivo de mensajes populistas de derecha en comunidades que experimentan declive económico o sensación de abandono. Las provincias de Granada y Málaga tienen zonas con desafíos socioeconómicos donde VOX ha encontrado calado. La excepción de Guadix subraya la importancia de factores históricos, liderazgos locales o estructuras de poder tradicionales (notable es el fuerte resultado del PP, 0.3, igualando al PSOE) que pueden modular el voto. **Limitaciones del Análisis:** 1.  La muestra es extremadamente pequeña (n=3) y no representa la diversidad nacional. 2.  Se analizan solo tres variables, omitiendo otras cruciales como el porcentaje de jóvenes, el sector económico predominante o el historial de voto. 3.  Los datos de renta son de 2017, pudiendo no reflejar la situación exacta en el momento electoral. 4.  La excepción de Guadix demuestra que la relación no es determinista y que el análisis bivariable es insuficiente para explicar la complejidad del comportamiento electoral.",3,nivel3
+"### Instrucción:
+¿Cuál fue el Participación máximo en la provincia de Ciudad Real en Abril 2019?
+
+### Contexto:
+Año: Abril 2019, Ámbito: provincia, Variable: Participación
+
+### Respuesta:",El Participación máximo en la provincia de Ciudad Real en Abril 2019 fue de 89.15% en la sección (022019041071309101001).,2,nivel2
+"### Instrucción:
+¿Qué partido quedó en quinto lugar en la sección 3605903002 en la elección de Noviembre 2019 y que porcentaje de voto obtuvo Vox?
+
+### Contexto:
+Datos de 3605903002 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El quinto lugar en la sección 3605903002 en la elección de Noviembre 2019 fue el partido Cs y su porcentaje de voto de Vox fue el 3.54%.,1,nivel1
+"### Instrucción:
+¿Qué diferencia hay entre IU y UP en la provincia de Ceuta en Abril 2019?
+
+### Contexto:
+Año: Abril 2019, Partidos: IU y UP, Ámbito: provincia
+
+### Respuesta:","En la elección de Abril 2019 en la provincia de Ceuta, el partido IU obtuvo el 0.00%, y el partido UP obtuvo el 4.96%. La diferencia es de 4.96 puntos porcentuales a favor de UP.",2,nivel2
+"### Instrucción:
+Considerando los datos de los municipios de la provincia de Madrid, ¿cómo se relaciona la renta personal media con el apoyo electoral al Partido Popular (PP) y al Partido Socialista (PSOE), y qué patrones geográficos o de composición municipal pueden inferirse al comparar los distritos o secciones censales de la capital con los municipios del área metropolitana, especialmente en términos de la volatilidad del voto (medida por la desviación estándar) y la posible polarización socioeconómica?
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","Basándonos en los datos proporcionados, se puede realizar un análisis comparativo. Primero, se agrupan los registros por municipio. Para la ciudad de Madrid, hay cinco entradas con rentas personales que oscilan entre 11.225€ y 30.210€, y un apoyo al PP entre el 20% y el 50%. Calculando un promedio simple para Madrid capital de estas cinco observaciones, la renta personal media es de aproximadamente (30.210 + 13.852 + 11.225 + 26.199 + 12.482) / 5 = 18.793,6€. El apoyo medio al PP en Madrid es (0.5 + 0.2 + 0.2 + 0.4 + 0.2) / 5 = 0.3 (30%), y al PSOE es (0.1 + 0.3 + 0.3 + 0.1 + 0.3) / 5 = 0.22 (22%). Para los municipios metropolitanos (Rivas, Alcalá, Parla, Pinto, Leganés), la renta personal media es (12.776 + 15.520 + 11.477 + 10.458 + 8.016) / 5 = 11.649,4€. Su apoyo medio al PP es (0.1 + 0.2 + 0.2 + 0.1 + 0.1) / 5 = 0.14 (14%), y al PSOE es (0.3 + 0.3 + 0.3 + 0.3 + 0.5) / 5 = 0.34 (34%). La interpretación revela un patrón claro: existe una correlación positiva entre una mayor renta personal media y un mayor voto al PP, y una correlación negativa con el voto al PSOE. Madrid capital, con una renta media casi un 61% superior (18.794€ vs 11.649€), muestra un apoyo al PP más del doble (30% vs 14%) y un apoyo al PSOE sustancialmente menor (22% vs 34%). Este es un indicio de polarización socioeconómica en el voto dentro del área metropolitana. En cuanto a la volatilidad/heterogeneidad interna, la desviación estándar (σ) del voto al PP en Madrid capital es alta (calculada aproximadamente como 0.13, superior a la σ agregada de 0.1), lo que sugiere una gran variabilidad entre distritos o secciones, desde bastiones fuertes (50%) hasta áreas de apoyo moderado (20%). En los municipios metropolitanos, la σ del voto al PP es menor (~0.05), indicando un apoyo bajo más uniforme. Para el PSOE, el patrón es inverso: mayor uniformidad en los municipios metropolitanos (donde es claramente hegemónico) y mayor variabilidad en la capital. El contexto político relevante es que estos datos reflejan la tradicional división centro-periferia en áreas metropolitanas, donde el centro urbano (Madrid) concentra población con mayor renta y voto más conservador, mientras que la periferia, con rentas menores, muestra un voto más progresista. Una limitación clave es que los datos de ""Madrid"" son secciones censales no identificadas, por lo que no se puede analizar la geografía interna precisa (centro vs. periferia dentro de la ciudad). Además, la variable ""% mayores 65 años"" es constantemente 0 en la muestra, lo que impide evaluar el efecto de la edad. La participación electoral es relativamente uniforme (μ=0.8), por lo que no emerge como un factor diferenciador en este conjunto de datos específico.",3,nivel3
+"### Instrucción:
+Considerando los datos proporcionados de municipios españoles, analice el impacto de la renta por persona (2017) en el comportamiento electoral, específicamente en el apoyo al Partido Popular (PP) y en la participación. ¿Qué patrones se observan? ¿Cómo podrían explicarse estos patrones a través de mecanismos causales socioeconómicos y políticos, y qué heterogeneidad geográfica es evidente? Finalmente, discuta las implicaciones de estos hallazgos para el diseño de políticas públicas.
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","El análisis de los datos revela una relación compleja y no lineal entre la renta por persona y el comportamiento electoral, con una marcada heterogeneidad geográfica. **Cuantificación de Relaciones:** 1. **Renta y Voto al PP:** Los datos muestran dos clusters distintos. Un grupo de municipios (Valdeprado, Maján, Almohaja, Castilnuevo, Illán de Vacas, Lanzuela, Valacloche) tiene una renta por persona constante (11,234€) y un apoyo al PP que varía desde 0.4 hasta 1.0 (μ=0.71, σ=0.24 para este subgrupo). Otro grupo (Sevilla, Ceuta) tiene rentas significativamente más bajas (5,055€ y 3,431€) y un apoyo al PP del 0%. La correlación general es positiva pero débil si se consideran todos los puntos, ya que los municipios de menor renta muestran un apoyo nulo al PP. El municipio de Fuembellida (renta 11,234€) es una excepción dentro del primer grupo, con 0% de voto al PP. 2. **Renta y Participación:** La participación es generalmente alta (μ=0.82) en el grupo de mayor renta (11,234€), con valores entre 0.7 y 1.0. En el grupo de menor renta, la participación es significativamente más baja (0.5 en Sevilla y 0.6 en Ceuta). Esto sugiere una fuerte correlación positiva entre renta y participación electoral. **Mecanismos Causales Posibles:** *   **Voto al PP:** La ausencia de apoyo al PP en zonas de renta muy baja (Sevilla, Ceuta) podría explicarse por el **clientelismo político tradicional** y la **identificación de clase**. En contextos de privación económica severa, los votantes pueden percibir al PP como un partido de élite y orientar su voto hacia formaciones de izquierda (PSOE en Ceuta) o de protesta (VOX en Sevilla), o simplemente abstenerse. La alta variabilidad del voto al PP en municipios de renta media-alta similar sugiere que otros factores (liderazgo local, tradición política, competencia de VOX/Cs) son determinantes. *   **Participación:** La relación positiva renta-participación se alinea con la teoría de los **recursos socioeconómicos**. Mayores recursos (educación, seguridad económica, redes sociales) reducen el coste de votar y aumentan el sentido de eficacia política. La baja participación en áreas de renta muy baja puede reflejar **alienación política** o la percepción de que el sistema no responde a sus necesidades. **Heterogeneidad Geográfica:** El patrón es claramente **rural vs. urbano/periférico**. Los municipios de renta media-alta y alto apoyo al PP son predominantemente rurales y despoblados de provincias del interior (Soria, Guadalajara, Teruel, Toledo). Los de renta baja y apoyo nulo al PP son una capital de provincia (Sevilla) y una ciudad autónoma (Ceuta), con dinámicas sociales y políticas radicalmente diferentes. Esto subraya la **brecha centro-periferia y urbano-rural** en la geografía electoral española, donde el PP mantiene fortalezas en el mundo rural, independientemente del nivel absoluto de renta dentro de ese contexto. **Implicaciones para Políticas Públicas:** 1.  **Políticas de Cohesión Territorial:** Los datos refuerzan la necesidad de políticas contra la despoblación (Ley 45/2007) que no solo mejoren la renta, sino que fortalezcan el capital social y los servicios públicos en el medio rural para sostener la participación democrática. 2.  **Políticas de Inclusión Social:** La baja participación en áreas de pobreza urbana (como el distrito de Sevilla en la muestra) requiere intervenciones específicas de **inclusión cívica** y lucha contra la exclusión, más allá de las transferencias económicas, para reconstruir la confianza en las instituciones. 3.  **Comunicación Política:** Los partidos, especialmente el PP, deben adaptar su mensaje y estrategia organizativa a realidades socioeconómicas radicalmente distintas. En zonas deprimidas, el discurso debe conectar con las preocupaciones materiales inmediatas para evitar la desconexión total observada en los datos. 4.  **Transparencia y Rendición de Cuentas:** Para combatir la alienación política en zonas de baja participación, son cruciales políticas de **gobierno abierto** y proximidad que demuestren la capacidad de la política para generar cambios tangibles. En conclusión, la renta actúa más como un **umbral** necesario para la participación y el voto conservador, pero no es suficiente para explicar los resultados electorales. Factores contextuales geográficos, históricos y de competencia partidista interactúan con la variable socioeconómica, creando un mapa electoral complejo que desafía las explicaciones simplistas.",3,nivel3
+"### Instrucción:
+¿Qué porcentaje de votos obtuvo el PP en la sección 3603802002 en las elecciones de Abril 2019?
+
+### Contexto:
+Datos de 3603802002 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El partido PP obtuvo en la sección 3603802002 el 34.34% de votos en las eleccione de Abril 2019.,1,nivel1
+"### Instrucción:
+¿Cuál es el tamaño del censo y la población total de la sección 4616701001 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 4616701001 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El censo en la sección 4616701001 en la elección de Noviembre 2019 fue de 342 habitantes y la población total fue de 345.0.,1,nivel1
+"### Instrucción:
+¿En qué provincia fue mayor % Cs en la elección de Noviembre 2019: Vizcaya o Orense?
+
+### Contexto:
+Año: Noviembre 2019, Variable: % Cs
+
+### Respuesta:","En Noviembre 2019, % Cs fue mayor en Orense. Valores: Vizcaya: 1.06%, Orense: 3.54%.",2,nivel2
+"### Instrucción:
+¿Qué diferencia hay entre VOX y PSOE en la provincia de Islas Baleares en Abril 2019?
+
+### Contexto:
+Año: Abril 2019, Partidos: VOX y PSOE, Ámbito: provincia
+
+### Respuesta:","En la elección de Abril 2019 en la provincia de Islas Baleares, el partido VOX obtuvo el 11.31%, y el partido PSOE obtuvo el 26.50%. La diferencia es de 15.19 puntos porcentuales a favor de PSOE.",2,nivel2
+"### Instrucción:
+¿Cuál es el resultado de la columna CiU en la sección 0703304004 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 0703304004 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna CiU de la sección 0703304004 en la elección Noviembre 2019 es 0,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna Bildu en la sección 0827901019 en la elección Abril 2019?
+
+### Contexto:
+Datos de 0827901019 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna Bildu de la sección 0827901019 en la elección Abril 2019 es 0,1,nivel1
+"### Instrucción:
+¿Cuál fue la renta de salarios 2018 en la sección 3003901001 en las elecciones de Abril 2019?
+
+### Contexto:
+Datos de 3003901001 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La renta de salarios 2018 en la sección 3003901001 en las elecciones de Abril 2019 fue de 5892.0.,1,nivel1
+"### Instrucción:
+¿Cuál fue el % Cs máximo en el municipio de Navas de Estena en Abril 2019?
+
+### Contexto:
+Año: Abril 2019, Ámbito: municipio, Variable: % Cs
+
+### Respuesta:",El % Cs máximo en el municipio de Navas de Estena en Abril 2019 fue de 11.68% en la sección (022019041071306001001).,2,nivel2
+"### Instrucción:
+¿Qué diferencia hay entre UP y IU en el municipio Outes en Noviembre 2019?
+
+### Contexto:
+Año: Noviembre 2019, Partidos: UP y IU, Ámbito: municipio
+
+### Respuesta:","En la elección de Noviembre 2019 en el municipio Outes, el partido UP obtuvo el 8.16%, y el partido IU obtuvo el 0.00%. La diferencia es de 8.16 puntos porcentuales a favor de UP.",2,nivel2
+"### Instrucción:
+¿Cuántos votos totales hubo en la provincia de Teruel en Abril 2019?
+
+### Contexto:
+Elección: Abril 2019, Operación: suma
+
+### Respuesta:","En la provincia de Teruel en Abril 2019 hubo 79,151 votos totales.",2,nivel2
+"### Instrucción:
+¿Cómo evolucionó el porcentaje de voto a VOX en Henche entre Noviembre 2019 y Abril 2019?
+
+### Contexto:
+Municipio: Henche, Partido: VOX, Años: Noviembre 2019 y Abril 2019
+
+### Respuesta:",El VOX en Henche pasó de 22.22% en Noviembre 2019 a 16.67% en Abril 2019. Esto representa una disminución de 5.56 puntos porcentuales (25.0% menos).,2,nivel2
+"### Instrucción:
+¿Cuál fue la participación electoral en la sección 5029704036 en las elecciones de Abril 2019?
+
+### Contexto:
+Datos de 5029704036 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La participación electoral en la sección 5029704036 en las elecciones de Abril 2019 la participación fue del 86.91%.,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna PSOE en la sección 3802302010 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 3802302010 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna PSOE de la sección 3802302010 en la elección Noviembre 2019 es 272,1,nivel1
+"### Instrucción:
+¿Cuál es el tamaño del censo y la población total de la sección 4516501004 en la elección Abril 2019?
+
+### Contexto:
+Datos de 4516501004 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El censo en la sección 4516501004 en la elección de Abril 2019 fue de 1078 habitantes y la población total fue de 1447.0.,1,nivel1
+"### Instrucción:
+¿A qué CCAA pertenece la seccion 4802004017 en la elección Abril 2019?
+
+### Contexto:
+Datos de 4802004017 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La sección 4802004017 en las elecciones de Abril 2019 pertenece a la CCAA País Vasco.,1,nivel1
+"### Instrucción:
+¿A qué municipio pertenece la seccion 3905901005 en la elección Abril 2019?
+
+### Contexto:
+Datos de 3905901005 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La sección 3905901005 en las elecciones de Abril 2019 pertenece al municipio Reinosa.,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna % Afiliados SS / Población en la sección 3002401039 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 3002401039 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna % Afiliados SS / Población de la sección 3002401039 en la elección Noviembre 2019 es 29.01642036124795,1,nivel1
+"### Instrucción:
+¿Qué partido ganó las elecciones en 1812701005 en Noviembre 2019?
+
+### Contexto:
+Datos de 1812701005 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:","El las elecciones de Noviembre 2019, el ganador en la sección 1812701005 fue el partido PSOE.",1,nivel1
+"### Instrucción:
+Considerando los datos de los municipios de la provincia de Sevilla, analice la relación geográfica entre la renta per cápita y el comportamiento electoral, específicamente el voto al PSOE y al PP. Identifique patrones espaciales, calcule correlaciones clave y explique los factores contextuales que podrían sustentar esta relación, así como sus implicaciones para la competencia partidista en la región.
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","El análisis de los datos revela un patrón geográfico claro y una correlación inversa entre la renta per cápita y el apoyo a los dos principales partidos. En los municipios y distritos con menor renta (Coria del Río: 6.366€, Pedrera: 7.322€, Los Palacios: 7.921€), el PSOE obtiene sus mayores porcentajes de voto (0.5, 0.4 y 0.3 respectivamente, siendo el 0.6 en Sevilla un caso particular que se analizará). Por el contrario, en las zonas de mayor renta (Gines: 13.994€, Sevilla (distrito rico): 17.745€), el PSOE recibe su apoyo más bajo (0.2 y 0.1), mientras que el PP alcanza sus picos (0.2 y 0.4). La correlación calculada entre Renta Persona y % PSOE es fuertemente negativa (aproximadamente -0.85), y entre Renta Persona y % PP es fuertemente positiva (aproximadamente +0.80). El patrón espacial sugiere una división socioeconómica clásica pero marcada dentro de la provincia: las áreas rurales y periurbanas con economías más deprimidas (Écija, Coria, Pedrera) son bastiones socialistas, mientras que los enclaves de mayor prosperidad (distritos altos de Sevilla capital, Gines) muestran una clara preferencia por el partido conservador. El caso de Sevilla capital es paradigmático: los datos de sus distintos distritos muestran una gradación perfecta donde a mayor renta, menor voto al PSOE y mayor al PP. Los factores explicativos contextuales incluyen la estructura económica tradicional (agricultura, servicios de bajo valor añadido) en municipios con menor renta, donde el discurso de protección social del PSOE tiene mayor calado, frente a una base de empleados, profesionales y negocios en áreas ricas, más afín al programa económico del PP. La prácticamente nula presencia de población mayor de 65 años en la muestra (0% en todos los casos) descarta la edad como variable confusora en este análisis, haciendo más robusta la relación renta-voto. La implicación principal es que la competencia partidista en Sevilla se estructura en gran medida alrededor de líneas de fractura socioeconómica. Para el PSOE, el desafío es conectar con el electorado de mayores ingresos sin erosionar su base tradicional. Para el PP, el reto es invertir la correlación en municipios de renta media-baja. La estabilidad de estos patrones, junto con la aparición de VOX con un voto más transversal (entre 0.1 y 0.2 en casi todos los municipios), sugiere un sistema político anclado en la dimensión económica, pero con espacio para competencia por un voto ""desalineado"" que los partidos emergentes podrían capturar.",3,nivel3
+"### Instrucción:
+¿Qué partido quedó en segundo lugar en la seccion 2412501001 en las elecciones de Abril 2019 y qué porcentaje obtuvo?
+
+### Contexto:
+Datos de 2412501001 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El segundo lugar en la sección 2412501001 en las elecciones de Abril 2019 fue el partido PSOE.,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna Población Total en la sección 3500601001 en la elección Abril 2019?
+
+### Contexto:
+Datos de 3500601001 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna Población Total de la sección 3500601001 en la elección Abril 2019 es 956.0,1,nivel1
+"### Instrucción:
+¿Cuál fue la participación electoral en la sección 2906708055 en las elecciones de Noviembre 2019?
+
+### Contexto:
+Datos de 2906708055 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",La participación electoral en la sección 2906708055 en las elecciones de Noviembre 2019 la participación fue del 70.08%.,1,nivel1
+"### Instrucción:
+¿Cuál fue el porcentaje de mayores de 65 años en la sección 0810203009 en la elección Abril 2019 y cuál fue la renta hogar 2017?
+
+### Contexto:
+Datos de 0810203009 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El porcentaje de mayores de 65 años en la sección 0810203009 en la eleccion de Abril 2019 fue del 11.45% y la renta hogar 2017 fue de 40103.0.,1,nivel1
+"### Instrucción:
+¿Cuáles son los 10 municipios con mayor % PSOE en la elección de Noviembre 2019?
+
+### Contexto:
+Año: Noviembre 2019, Variable: % PSOE, Top: 10
+
+### Respuesta:","Los 10 municipios con mayor % PSOE en la elección de Noviembre 2019 son: 1. Valsalobre (82.35%), 2. La Bodera (81.25%), 3. Torremochuela (80.00%), 4. Bagüés (80.00%), 5. Sempere (78.95%), 6. Serrato (77.95%), 7. Fuembellida (77.78%), 8. Arroyo de las Fraguas (76.47%), 9. Barjas (76.47%), 10. Pedro Martínez (75.61%)",2,nivel2
+"### Instrucción:
+¿Cuántos votos válidos hubo en la sección 2608903024 en las elecciones de Abril 2019?
+
+### Contexto:
+Datos de 2608903024 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",En la sección 2608903024 en las elecciones de Abril 2019 hubo 561 votos válidos.,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna Afiliados SS Minicipio en la sección 0810102045 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 0810102045 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna Afiliados SS Minicipio de la sección 0810102045 en la elección Noviembre 2019 es 102450.0,1,nivel1
+"### Instrucción:
+¿Cuál fue la renta de salarios 2018 en la sección 3412004003 en las elecciones de Noviembre 2019?
+
+### Contexto:
+Datos de 3412004003 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",La renta de salarios 2018 en la sección 3412004003 en las elecciones de Noviembre 2019 fue de 9492.0.,1,nivel1
+"### Instrucción:
+¿Qué partido quedó en cuarto lugar en la seccion 2902503001 en las elecciones de Noviembre 2019?
+
+### Contexto:
+Datos de 2902503001 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El cuarto lugar en la sección 2902503001 en las elecciones de Noviembre 2019 fue el partido UP.,1,nivel1
+"### Instrucción:
+Considerando los datos de los municipios de la provincia de Valencia, analice la relación entre la fragmentación del voto a la derecha (calculando un índice de concentración para PP, Cs y VOX) y el nivel de renta personal media. ¿En qué tipo de municipios, según su renta, se observa una mayor competencia interna en el espacio electoral de centro-derecha/derecha, y cómo podría esto relacionarse con los diferentes perfiles socioeconómicos de los votantes potenciales de estas formaciones en el contexto de la Comunidad Valenciana?
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","Para abordar esta pregunta, realizaremos un análisis en dos fases: primero, calcularemos un índice de fragmentación/concentración del voto de derecha para cada municipio, y luego lo correlacionaremos con la renta personal media. **Fase 1: Cálculo del Índice de Concentración del Voto de Derecha (ICVD)** Definimos el ""espacio de derecha"" como la suma de los votos de PP, Cs y VOX en cada municipio. El índice de concentración se calculará utilizando el Índice Herfindahl-Hirschman (HHI) adaptado, que mide la concentración de mercado (o en este caso, de apoyo electoral). La fórmula es: `ICVD = (%PP^2 + %Cs^2 + %VOX^2) / ( (%PP + %Cs + %VOX)^2 )` Un valor cercano a 1 indica que un solo partido domina el espacio; un valor cercano a 0.33 (1/3) indica una distribución perfectamente equitativa entre los tres. Aplicando a los datos (se muestran ejemplos y resultados agregados): *   **Oliva**: Espacio Derecha = 0.2 (PP) + 0.2 (Cs) + 0.1 (VOX) = 0.5. ICVD = (0.04 + 0.04 + 0.01) / (0.25) = 0.09 / 0.25 = **0.36**. Alta fragmentación. *   **Requena**: Espacio = 0.2 + 0.1 + 0.3 = 0.6. ICVD = (0.04 + 0.01 + 0.09) / (0.36) = 0.14 / 0.36 ≈ **0.39**. Moderada concentración (VOX lidera). *   **Jalance**: Espacio = 0.4 + 0.1 + 0.1 = 0.6. ICVD = (0.16 + 0.01 + 0.01) / (0.36) = 0.18 / 0.36 = **0.50**. Concentración media-alta (PP domina). *   **València (primer registro)**: Espacio = 0.3 + 0.2 + 0.2 = 0.7. ICVD = (0.09 + 0.04 + 0.04) / (0.49) = 0.17 / 0.49 ≈ **0.35**. Muy alta fragmentación. **Fase 2: Análisis de la relación con la Renta Personal Media** Ordenamos los municipios por renta personal (de menor a mayor) y observamos su ICVD: 1.  Requena (10252€, ICVD 0.39): Concentración moderada a favor de VOX. 2.  Cheste (10407€, ICVD ~0.38*): Fragmentación moderada (PSOE es primero, pero dentro de la derecha, PP y VOX empatan). 3.  Tavernes (11179€, ICVD ~0.31**): **Máxima fragmentación** (PP 0.1, Cs 0.2, VOX 0.1, pero el espacio total es solo 0.4). 4.  Jalance (11610€, ICVD 0.50): **Máxima concentración** (PP claramente dominante). 5.  Vilallonga (11561€, ICVD ~0.38): Fragmentación moderada. 6.  València (registros varios, ~12100€ promedio, ICVD ~0.35-0.39): Fragmentación alta. 7.  Oliva (12439€, ICVD 0.36): Fragmentación alta. 8.  Cortes de Pallás (12585€, ICVD ~0.38): Fragmentación moderada. *(Cálculo para Cheste: Espacio=0.5, ICVD=(0.04+0.01+0.04)/0.25=0.09/0.25=0.36). Se corrige a 0.36. **(Cálculo para Tavernes: Espacio=0.4, ICVD=(0.01+0.04+0.01)/0.16=0.06/0.16=0.375). Se corrige a 0.375. **Síntesis e Interpretación:** No se observa una correlación lineal simple entre renta y fragmentación del voto de derecha. Sin embargo, surgen patrones significativos: 1.  **Municipios de renta media-baja (Requena, Cheste)**: Presentan una concentración moderada-alta. En Requena, VOX es la fuerza hegemónica de derecha (0.3, igualando al PSOE). Esto podría indicar que en contextos de menor renta, el mensaje de VOX (que a menudo enfatiza cuestiones identitarias y de orden, y capta descontento socioeconómico) logra consolidarse mejor frente a un PP más tradicional y un Cs en declive, reduciendo la fragmentación. 2.  **Municipios de renta media y media-alta (Oliva, València)**: Exhiben la mayor fragmentación (ICVD más bajos). El espacio de derecha está muy repartido entre las tres formaciones. Esto refleja la complejidad social de las áreas urbanas/ costeras, donde coexisten electorados de centro-derecha liberal (Cs), derecha tradicional (PP) y derecha nacional-populista (VOX), sin que ninguno logre una clara hegemonía. La mayor diversidad socioeconómica y cultural probablemente alimenta esta división. 3.  **Caso atípico revelador (Jalance)**: Con una renta media, muestra la mayor concentración (ICVD=0.5) alrededor del PP. Esto sugiere la persistencia de ""cotos"" o bastiones tradicionales del partido, posiblemente en municipios más pequeños o con dinámicas políticas locales muy arraigadas, donde",3,nivel3
+"### Instrucción:
+¿A qué provincia pertenece la sección 1402110019 en la elección Noviembre 2019 y cuál es su renta salarios 2018?
+
+### Contexto:
+Datos de 1402110019 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",La sección 1402110019 en la elección Noviembre 2019 pertenece a la provincia Córdoba y su renta de salarios 2018 es de 10866.0.,1,nivel1
+"### Instrucción:
+¿Cómo evolucionó el porcentaje de voto a PSOE en Cornudella de Montsant entre Noviembre 2019 y Abril 2019?
+
+### Contexto:
+Municipio: Cornudella de Montsant, Partido: PSOE, Años: Noviembre 2019 y Abril 2019
+
+### Respuesta:",El PSOE en Cornudella de Montsant pasó de 7.57% en Noviembre 2019 a 8.73% en Abril 2019. Esto representa un incremento de 1.17 puntos porcentuales (15.4% más).,2,nivel2
+"### Instrucción:
+¿Cuál fue el % UP mínimo en el municipio de Zambrana en Noviembre 2019?
+
+### Contexto:
+Año: Noviembre 2019, Ámbito: municipio, Variable: % UP
+
+### Respuesta:",El % UP mínimo en el municipio de Zambrana en Noviembre 2019 fue de 21.46% en la sección (022019111140106201001).,2,nivel2
+"### Instrucción:
+¿Cuál es el resultado de la columna % 20-64 años en la sección 3003003006 en la elección Abril 2019?
+
+### Contexto:
+Datos de 3003003006 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna % 20-64 años de la sección 3003003006 en la elección Abril 2019 es 0.5577142857142857,1,nivel1
+"### Instrucción:
+¿Qué partido quedó en segundo lugar en la seccion 4315001001 en las elecciones de Abril 2019 y qué porcentaje obtuvo?
+
+### Contexto:
+Datos de 4315001001 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El segundo lugar en la sección 4315001001 en las elecciones de Abril 2019 fue el partido JxC.,1,nivel1
+"### Instrucción:
+¿Cúal fue la participación en la sección 3907503014 en la elección Abril 2019 y que porcentaje obtuvo el PP?
+
+### Contexto:
+Datos de 3907503014 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La participación en la sección 3907503014 en la elección Abril 2019 fue del 72.74% y el PP obtuvo un porcentaje del 20.60%.,1,nivel1
+"### Instrucción:
+¿Qué porcentaje de votos obtuvo el PP en la sección 1503007012 en las elecciones de Abril 2019?
+
+### Contexto:
+Datos de 1503007012 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El partido PP obtuvo en la sección 1503007012 el 22.29% de votos en las eleccione de Abril 2019.,1,nivel1
+"### Instrucción:
+¿Qué partido quedó en quinto lugar en la sección 0825001006 en la elección de Noviembre 2019 y que porcentaje de voto obtuvo Vox?
+
+### Contexto:
+Datos de 0825001006 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El quinto lugar en la sección 0825001006 en la elección de Noviembre 2019 fue el partido ERC y su porcentaje de voto de Vox fue el 9.52%.,1,nivel1
+"### Instrucción:
+¿Qué relación hay entre % VOX y Renta Pensiones 2018 en los municipios?
+
+### Contexto:
+Variables: % VOX y Renta Pensiones 2018
+
+### Respuesta:","Analizando 10 municipios, los que tienen mayor Renta Pensiones 2018 tienen un % VOX de 0.1%, mientras que los de menor Renta Pensiones 2018 tienen 0.1%. Esto sugiere una relación positiva: a mayor Renta Pensiones 2018, mayor % VOX.",2,nivel2
+"### Instrucción:
+¿Cuál fue el cambio porcentual del voto a UP en Traiguera entre las elecciones de Noviembre 2019 y Abril 2019?
+
+### Contexto:
+Municipio: Traiguera, Partido: UP, Años: Noviembre 2019->Abril 2019
+
+### Respuesta:",El UP en Traiguera pasó de 7.94% en porcentaje de voto en la elección Noviembre 2019 al 6.12% en Abril 2019. Esto representa un cambio del -23.0% ( de disminución porcentual).,2,nivel2
+"### Instrucción:
+¿Cuál es el resultado de la columna Tercero en la sección 2512009001 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 2512009001 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna Tercero de la sección 2512009001 en la elección Noviembre 2019 es PSOE,1,nivel1
+"### Instrucción:
+¿Qué porcentaje de votos obtuvo el PP en la sección 4308801002 en las elecciones de Abril 2019?
+
+### Contexto:
+Datos de 4308801002 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El partido PP obtuvo en la sección 4308801002 el 2.84% de votos en las eleccione de Abril 2019.,1,nivel1
+"### Instrucción:
+¿Cuál fue el cambio porcentual del voto a PSOE en Nuez de Ebro entre las elecciones de Abril 2019 y Noviembre 2019?
+
+### Contexto:
+Municipio: Nuez de Ebro, Partido: PSOE, Años: Abril 2019->Noviembre 2019
+
+### Respuesta:",El PSOE en Nuez de Ebro pasó de 32.95% en porcentaje de voto en la elección Abril 2019 al 30.11% en Noviembre 2019. Esto representa un cambio del -8.6% ( de disminución porcentual).,2,nivel2
+"### Instrucción:
+¿Qué relación hay entre Participación y Renta Salarios 2018 en los municipios?
+
+### Contexto:
+Variables: Participación y Renta Salarios 2018
+
+### Respuesta:","Analizando 10 municipios, los que tienen mayor Renta Salarios 2018 tienen un Participación de 0.8%, mientras que los de menor Renta Salarios 2018 tienen 0.7%. Esto sugiere una relación positiva: a mayor Renta Salarios 2018, mayor Participación.",2,nivel2
+"### Instrucción:
+¿Cuál es el resultado de la columna % Afiliados SS autónomos en la sección 0811002003 en la elección Abril 2019?
+
+### Contexto:
+Datos de 0811002003 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna % Afiliados SS autónomos de la sección 0811002003 en la elección Abril 2019 es 0.2207232527637249,1,nivel1
+"### Instrucción:
+¿Cuál fue el porcentaje de mayores de 65 años en la sección 2807913155 en la elección Noviembre 2019 y cuál fue la renta hogar 2017?
+
+### Contexto:
+Datos de 2807913155 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El porcentaje de mayores de 65 años en la sección 2807913155 en la eleccion de Noviembre 2019 fue del 16.75% y la renta hogar 2017 fue de 25116.0.,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna edad_0-4 en la sección 4516801001 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 4516801001 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna edad_0-4 de la sección 4516801001 en la elección Noviembre 2019 es 58.0,1,nivel1
+"### Instrucción:
+¿Qué porcentaje de votos obtuvo el PP en la sección 2990101014 en las elecciones de Noviembre 2019?
+
+### Contexto:
+Datos de 2990101014 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El partido PP obtuvo en la sección 2990101014 el 25.33% de votos en las eleccione de Noviembre 2019.,1,nivel1
+"### Instrucción:
+¿Cuál es la proporción de censo electoral del municipio de Becerril de Campos en la provincia de Palencia y en la comunidad de Castilla y León?
+
+### Contexto:
+Elección: Abril 2019, Operación: proporcion
+
+### Respuesta:",El municipio de Becerril de Campos representa el 0.5% del censo en la provincia de Palencia y el 1459.8% del censo de la comunidad Castilla y León,2,nivel2
+"### Instrucción:
+¿Qué partido ganó las elecciones en 3304411002 en Abril 2019?
+
+### Contexto:
+Datos de 3304411002 en Abril 2019: 1 secciones electorales
+
+### Respuesta:","El las elecciones de Abril 2019, el ganador en la sección 3304411002 fue el partido PP.",1,nivel1
+"### Instrucción:
+Considerando los datos de los municipios de la provincia de Valencia, ¿cómo se relaciona la variabilidad en el apoyo al PSOE (medida por su desviación estándar) con la renta personal media y el nivel de participación electoral? Analice si los municipios donde el PSOE obtiene resultados significativamente por encima o por debajo de su media provincial (μ=0.3) presentan patrones diferenciados en estas dos variables socioelectorales, e identifique qué municipio constituye la mayor excepción a cualquier patrón general encontrado.
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","Para analizar esta relación, primero identificamos los municipios donde el apoyo al PSOE se desvía significativamente de su media provincial (μ=0.3, σ=0.1). Consideraremos una desviación significativa aquella que supere ±0.05 (medio sigma). 1.  **Municipios con apoyo ALTO al PSOE (>0.35)**: Cortes de Pallás (0.4). Este es el único municipio donde el PSOE supera el 0.35. 2.  **Municipios con apoyo BAJO al PSOE (<0.25)**: Oliva (0.2), Tavernes de la Valldigna (0.2). En Jalance el PSOE tiene un 0.3, justo en la media. 3.  **Cálculos de patrones**: *   **Renta Personal**: La renta personal media provincial (μ) es 11631.7€. *   En el municipio de alto apoyo (Cortes de Pallás), la renta personal (12585€) está **por encima** de la media provincial en 953.3€. *   En los municipios de bajo apoyo (Oliva: 12439€; Tavernes: 11179€), la renta es mixta. Oliva está muy por encima (+807.3€) y Tavernes por debajo (-452.7€). El promedio de renta en estos dos municipios bajos es 11809€, que también está por encima de la media provincial. *   **Participación**: La participación media provincial (μ) es 0.8. *   Cortes de Pallás (alto PSOE) tiene una participación de 0.8, igual a la media. *   Oliva y Tavernes (bajo PSOE) tienen ambos una participación de 0.8, igual a la media. 4.  **Interpretación y Patrones**: *   No se encuentra una correlación clara o uniforme entre una desviación en el voto al PSOE y la renta personal o la participación. El municipio con el apoyo más alto al PSOE tiene una renta superior a la media, pero uno de los municipios con apoyo más bajo (Oliva) también la tiene. La participación es uniformemente alta (0.7-0.8) en toda la muestra y no discrimina. *   El contexto político que podría explicar esto es la heterogeneidad de los municipios valencianos, donde factores locales, históricos o de estructura económica (no capturados en estos datos, como el peso de la agricultura, el turismo o la industria) probablemente tengan más peso que la renta agregada para explicar el voto al PSOE. *   **La mayor excepción al patrón limitado observado** es **Tavernes de la Valldigna**. Es el único municipio donde el PSOE obtiene un resultado bajo (0.2) y simultáneamente presenta una renta personal por debajo de la media provincial (11179€ vs. 11631.7€). Esto contradice la tendencia vista en Oliva (bajo PSOE con alta renta) y en Cortes de Pallás (alto PSOE con alta renta). 5.  **Limitaciones del análisis**: *   La muestra es muy pequeña (10 entradas, algunas duplicadas para València) y no es representativa estadísticamente de la provincia. *   El rango de variación en la participación (0.7-0.8) y en la renta es estrecho, lo que dificulta encontrar correlaciones significativas. *   Faltan variables cruciales como el voto a otras fuerzas en detalle, la estructura por edad (todas muestran 0% mayores de 65, un dato probablemente erróneo o ausente) o el historial electoral previo, lo que limita enormemente la capacidad explicativa.",3,nivel3
+"### Instrucción:
+¿Cúal fue la participación en la sección 1006401001 en la elección Noviembre 2019 y que porcentaje obtuvo el PP?
+
+### Contexto:
+Datos de 1006401001 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",La participación en la sección 1006401001 en la elección Noviembre 2019 fue del 71.29% y el PP obtuvo un porcentaje del 33.54%.,1,nivel1
+"### Instrucción:
+¿Qué relación hay entre % VOX y % Afiliados SS autónomos en los municipios?
+
+### Contexto:
+Variables: % VOX y % Afiliados SS autónomos
+
+### Respuesta:","Analizando 10 municipios, los que tienen mayor % Afiliados SS autónomos tienen un % VOX de 0.1%, mientras que los de menor % Afiliados SS autónomos tienen 0.2%. Esto sugiere una relación negativa: a mayor % Afiliados SS autónomos, menor % VOX.",2,nivel2
+"### Instrucción:
+¿Cuál fue el cambio porcentual del voto a VOX en Zaldibia entre las elecciones de Abril 2019 y Noviembre 2019?
+
+### Contexto:
+Municipio: Zaldibia, Partido: VOX, Años: Abril 2019->Noviembre 2019
+
+### Respuesta:",El VOX en Zaldibia pasó de 0.11% en porcentaje de voto en la elección Abril 2019 al 0.00% en Noviembre 2019. Esto representa un cambio del -100.0% ( de disminución porcentual).,2,nivel2
+"### Instrucción:
+¿Qué porcentaje de votos obtuvo IU en la sección 2300502006 en las elecciones de Noviembre 2019?
+
+### Contexto:
+Datos de 2300502006 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El partido IU obtuvo en la sección 2300502006 el 0.00% de votos en las eleccione de Noviembre 2019.,1,nivel1
+"### Instrucción:
+¿Qué partido quedó en cuarto lugar en la seccion 3111701001 en las elecciones de Abril 2019?
+
+### Contexto:
+Datos de 3111701001 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El cuarto lugar en la sección 3111701001 en las elecciones de Abril 2019 fue el partido PSOE.,1,nivel1
+"### Instrucción:
+¿Cuál fue el cambio porcentual del voto a Cs en La Alberca de Záncara entre las elecciones de Abril 2019 y Noviembre 2019?
+
+### Contexto:
+Municipio: La Alberca de Záncara, Partido: Cs, Años: Abril 2019->Noviembre 2019
+
+### Respuesta:",El Cs en La Alberca de Záncara pasó de 10.49% en porcentaje de voto en la elección Abril 2019 al 3.32% en Noviembre 2019. Esto representa un cambio del -68.4% ( de disminución porcentual).,2,nivel2
+"### Instrucción:
+¿Cuál fue el % IU mínimo en la provincia de Gerona en Noviembre 2019?
+
+### Contexto:
+Año: Noviembre 2019, Ámbito: provincia, Variable: % IU
+
+### Respuesta:",El % IU mínimo en la provincia de Gerona en Noviembre 2019 fue de 0.00% en la sección (022019111091700101001).,2,nivel2
+"### Instrucción:
+¿Cuál fue la participación electoral en la sección 0604403004 en las elecciones de Noviembre 2019?
+
+### Contexto:
+Datos de 0604403004 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",La participación electoral en la sección 0604403004 en las elecciones de Noviembre 2019 la participación fue del 60.58%.,1,nivel1
+"### Instrucción:
+¿Qué partido ganó las elecciones en 4613901002 en Abril 2019?
+
+### Contexto:
+Datos de 4613901002 en Abril 2019: 1 secciones electorales
+
+### Respuesta:","El las elecciones de Abril 2019, el ganador en la sección 4613901002 fue el partido PP.",1,nivel1
+"### Instrucción:
+¿Cuál fue el % VOX mínimo en la comunidad de Melilla en Noviembre 2019?
+
+### Contexto:
+Año: Noviembre 2019, Ámbito: comunidad, Variable: % VOX
+
+### Respuesta:",El % VOX mínimo en la comunidad de Melilla en Noviembre 2019 fue de 0.00% en la sección (022019111195200105006).,2,nivel2
+"### Instrucción:
+¿Qué diferencia hay entre PP y UP en la provincia de Melilla en Abril 2019?
+
+### Contexto:
+Año: Abril 2019, Partidos: PP y UP, Ámbito: provincia
+
+### Respuesta:","En la elección de Abril 2019 en la provincia de Melilla, el partido PP obtuvo el 22.72%, y el partido UP obtuvo el 3.73%. La diferencia es de 18.99 puntos porcentuales a favor de PP.",2,nivel2
+"### Instrucción:
+¿Cuál es el resultado de la columna Censo_Esc en la sección 0816501001 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 0816501001 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna Censo_Esc de la sección 0816501001 en la elección Noviembre 2019 es 1680,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna edad_0-4 en la sección 4718610008 en la elección Abril 2019?
+
+### Contexto:
+Datos de 4718610008 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna edad_0-4 de la sección 4718610008 en la elección Abril 2019 es 79.0,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna Renta persona 2015 en la sección 2805802001 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 2805802001 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna Renta persona 2015 de la sección 2805802001 en la elección Noviembre 2019 es 9648.0,1,nivel1
+"### Instrucción:
+¿A qué provincia pertenece la sección 4890202001 en la elección Abril 2019 y cuál es su renta salarios 2018?
+
+### Contexto:
+Datos de 4890202001 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La sección 4890202001 en la elección Abril 2019 pertenece a la provincia Vizcaya y su renta de salarios 2018 es de 8315.375480322766.,1,nivel1
+"### Instrucción:
+¿Cuántos votos consiguió el PP en la seccion 2212507002 en las elecciones de Abril 2019?
+
+### Contexto:
+Datos de 2212507002 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El PP en la sección 2212507002 en las elecciones de Abril 2019 obtuvo 226 votos.,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna Amaiur en la sección 2807920032 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 2807920032 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna Amaiur de la sección 2807920032 en la elección Noviembre 2019 es 0,1,nivel1
+"### Instrucción:
+Considerando los datos proporcionados de municipios españoles, analice el impacto de la renta per cápita y la estructura demográfica (% mayores de 65 años) en el apoyo electoral al Partido Popular (PP) y en la participación. ¿Qué patrones se observan, cómo podrían explicarse estos mecanismos, y qué implicaciones de política pública se derivan para abordar las disparidades territoriales?
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","El análisis de los datos revela patrones complejos y algunas relaciones contraintuitivas entre las variables socioeconómicas y el comportamiento electoral. 1. **Cuantificación de Relaciones:** *   **Renta y Voto al PP:** No se observa una correlación positiva clara en esta muestra. Municipios con la misma renta per cápita alta (11,234€: Valdeprado, Maján, Castilnuevo) muestran un apoyo al PP que varía del 40% al 100%. El municipio con menor renta (Sevilla, 5,055€) tiene un 0% de voto al PP. Sin embargo, el municipio con la segunda renta más baja (Ceuta, 3,431€) también registra un 0% para el PP. La media de voto al PP (μ=0.5) es superior a la media de renta estandarizada, pero la dispersión (σ=0.4) es alta, indicando que otros factores son determinantes. *   **Estructura Demográfica y Voto:** Solo un municipio (Almohaja) reporta un 100% de población mayor de 65 años. Este municipio tiene un apoyo altísimo al PP (90%), superior a la media, lo que sugiere una posible correlación entre envejecimiento y voto conservador, pero la muestra es insuficiente para generalizar. *   **Renta y Participación:** Se identifica una relación no lineal. Los municipios con renta alta (11,234€) tienen participaciones variables (0.7 a 1.0). Los dos municipios con renta más baja (Sevilla 0.5, Ceuta 0.6) tienen las participaciones más bajas del conjunto, sugiriendo un posible umbral de renta por debajo del cual la participación se resiente. La participación media es alta (μ=0.8). 2. **Mecanismos Causales Posibles:** *   **Homogeneidad Socioeconómica vs. Heterogeneidad Política:** Los municipios con rentas similares (especialmente los de 11,234€) muestran resultados electorales radicalmente diferentes. Esto indica que factores contextuales locales (cultura política histórica, liderazgo municipal, redes clientelares, temas identitarios) anulan o modulan el efecto de la renta. El ""lugar"" importa más que la condición económica individual en estas pequeñas comunidades. *   **Baja Participación en Áreas de Baja Renta:** Los mecanismos pueden incluir desafección política, percepción de abandono institucional (""voto útil"" percibido como inexistente), o dificultades logísticas. En Ceuta, factores identitarios únicos pueden explicar el alto voto al PSOE a pesar de la baja renta. *   **Voto en Municipios Envejecidos:** El caso de Almohaja apunta a mecanismos de anclaje territorial y lealtad a formaciones tradicionales en poblaciones envejecidas y posiblemente aisladas, donde el PP puede ser percibido como un vínculo estable con las instituciones. 3. **Heterogeneidad Geográfica:** *   **Provincia como Factor Clave:** El voto al PP es dominante en Soria (100% en ambos municipios) y fuerte en Teruel (media del 60%), pero es inexistente o minoritario en Sevilla, Ceuta y Fuembellida (Guadalajara). Esto sugiere fuertes efectos de ""provincia"" o comunidad autónoma, relacionados con sistemas de partidos regionales, historias agrarias o políticas de desarrollo territorial diferenciadas. *   **Patrón de Voto de la España Vaciada:** Muchos municipios de la muestra (Soria, Teruel, Guadalajara) pertenecen a la denominada ""España vaciada"". Comparten una renta media-alta (por baja población) pero resultados electorales fragmentados (PP dominante, pero también presencia de VOX y Cs en Teruel). Esto indica que la protesta en estas zonas no se canaliza uniformemente. 4. **Implicaciones de Política Pública:** *   **Políticas Contra la Desafección:** La baja participación en zonas de renta muy baja (ej. distritos de grandes ciudades como Sevilla) requiere políticas de proximidad, transparencia y rendición de cuentas locales para reconstruir la confianza, más que transferencias económicas genéricas. *   **Enfoque Territorial Diferenciado:** Dado que el factor provincial/regional es crucial, las estrategias nacionales de cohesión deben ser flexibles y co-diseñadas con actores locales. Un programa para la ""España vaciada"" debe reconocer su diversidad política interna. *   **Servicios para Población Envejecida:** El posible anclaje del voto conservador en municipios superenvejecidos (como Almohaja) sugiere que la garantía de servicios públicos esenciales (sanidad, transporte, cuidados) es no solo una obligación social, sino también un elemento clave de estabilidad política y legitimidad del estado en el territorio. En conclusión, los datos muestran que el impacto de las variables socioeconómicas clásicas (renta, edad) está fuertemente mediado por el contexto geográfico y político local. La homogeneidad económica no conduce a homogeneidad política, destacando la importancia de los factores históricos, identitarios y de gobernanza local en el comportamiento electoral.",3,nivel3
+"### Instrucción:
+¿Cúal fue la participación en la sección 2807401014 en la elección Abril 2019 y que porcentaje obtuvo el PP?
+
+### Contexto:
+Datos de 2807401014 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La participación en la sección 2807401014 en la elección Abril 2019 fue del 76.75% y el PP obtuvo un porcentaje del 13.15%.,1,nivel1
+"### Instrucción:
+¿Cuántos votos consiguió el PP en la seccion 3305601003 en las elecciones de Abril 2019?
+
+### Contexto:
+Datos de 3305601003 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El PP en la sección 3305601003 en las elecciones de Abril 2019 obtuvo 116 votos.,1,nivel1
+"### Instrucción:
+¿En qué provincia fue mayor % PSOE en la elección de Noviembre 2019: Zaragoza o Palencia?
+
+### Contexto:
+Año: Noviembre 2019, Variable: % PSOE
+
+### Respuesta:","En Noviembre 2019, % PSOE fue mayor en Zaragoza. Valores: Zaragoza: 31.99%, Palencia: 28.24%.",2,nivel2
+"### Instrucción:
+¿Qué partido quedó en segundo lugar en la seccion 1611302001 en las elecciones de Abril 2019 y qué porcentaje obtuvo?
+
+### Contexto:
+Datos de 1611302001 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El segundo lugar en la sección 1611302001 en las elecciones de Abril 2019 fue el partido PP.,1,nivel1
+"### Instrucción:
+¿Cuál fue el % PSOE mínimo en la comunidad de Andalucía en Abril 2019?
+
+### Contexto:
+Año: Abril 2019, Ámbito: comunidad, Variable: % PSOE
+
+### Respuesta:",El % PSOE mínimo en la comunidad de Andalucía en Abril 2019 fue de 0.99% en la sección (022019041014109104002).,2,nivel2
+"### Instrucción:
+¿Qué porcentaje de votos obtuvo el PP en la sección 1300502002 en las elecciones de Noviembre 2019?
+
+### Contexto:
+Datos de 1300502002 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El partido PP obtuvo en la sección 1300502002 el 25.11% de votos en las eleccione de Noviembre 2019.,1,nivel1
+"### Instrucción:
+¿Cómo evolucionó el porcentaje de voto a IU en Llutxent entre Noviembre 2019 y Abril 2019?
+
+### Contexto:
+Municipio: Llutxent, Partido: IU, Años: Noviembre 2019 y Abril 2019
+
+### Respuesta:",El IU en Llutxent pasó de 0.00% en Noviembre 2019 a 0.00% en Abril 2019. No hubo cambio en el porcentaje de voto.,2,nivel2
+"### Instrucción:
+¿Cómo evolucionó el porcentaje de voto a UP en Daya Vieja entre Abril 2019 y Noviembre 2019?
+
+### Contexto:
+Municipio: Daya Vieja, Partido: UP, Años: Abril 2019 y Noviembre 2019
+
+### Respuesta:",El UP en Daya Vieja pasó de 11.11% en Abril 2019 a 11.05% en Noviembre 2019. Esto representa una disminución de 0.06 puntos porcentuales (0.6% menos).,2,nivel2
+"### Instrucción:
+¿Qué relación hay entre % UP y % Paro s/ Afiliados SS Municipio en los municipios?
+
+### Contexto:
+Variables: % UP y % Paro s/ Afiliados SS Municipio
+
+### Respuesta:","Analizando 10 municipios, los que tienen mayor % Paro s/ Afiliados SS Municipio tienen un % UP de 0.0%, mientras que los de menor % Paro s/ Afiliados SS Municipio tienen 0.1%. Esto sugiere una relación negativa: a mayor % Paro s/ Afiliados SS Municipio, menor % UP.",2,nivel2
+"### Instrucción:
+¿Cuál es el tamaño del censo y la población total de la sección 2300503007 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 2300503007 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El censo en la sección 2300503007 en la elección de Noviembre 2019 fue de 1147 habitantes y la población total fue de 1434.0.,1,nivel1
+"### Instrucción:
+¿Qué diferencia hay entre Cs y IU en el municipio Benalúa de las Villas en Abril 2019?
+
+### Contexto:
+Año: Abril 2019, Partidos: Cs y IU, Ámbito: municipio
+
+### Respuesta:","En la elección de Abril 2019 en el municipio Benalúa de las Villas, el partido Cs obtuvo el 8.86%, y el partido IU obtuvo el 0.00%. La diferencia es de 8.86 puntos porcentuales a favor de Cs.",2,nivel2
+"### Instrucción:
+¿Qué porcentaje de votos obtuvo el PP en la sección 2305004003 en las elecciones de Noviembre 2019?
+
+### Contexto:
+Datos de 2305004003 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El partido PP obtuvo en la sección 2305004003 el 40.28% de votos en las eleccione de Noviembre 2019.,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna BNG en la sección 1104101003 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 1104101003 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna BNG de la sección 1104101003 en la elección Noviembre 2019 es 0,1,nivel1
+"### Instrucción:
+¿En qué provincia fue mayor % VOX en la elección de Noviembre 2019: Orense o Granada?
+
+### Contexto:
+Año: Noviembre 2019, Variable: % VOX
+
+### Respuesta:","En Noviembre 2019, % VOX fue mayor en Granada. Valores: Orense: 7.51%, Granada: 20.35%.",2,nivel2
+"### Instrucción:
+¿Cómo evolucionó el porcentaje de voto a Cs en Cervera de Pisuerga entre Noviembre 2019 y Abril 2019?
+
+### Contexto:
+Municipio: Cervera de Pisuerga, Partido: Cs, Años: Noviembre 2019 y Abril 2019
+
+### Respuesta:",El Cs en Cervera de Pisuerga pasó de 7.17% en Noviembre 2019 a 14.19% en Abril 2019. Esto representa un incremento de 7.01 puntos porcentuales (97.8% más).,2,nivel2
+"### Instrucción:
+¿Qué relación hay entre % Cs y Renta hogar 2017 en los municipios?
+
+### Contexto:
+Variables: % Cs y Renta hogar 2017
+
+### Respuesta:","Analizando 10 municipios, los que tienen mayor Renta hogar 2017 tienen un % Cs de 0.1%, mientras que los de menor Renta hogar 2017 tienen 0.1%. Esto sugiere una relación negativa: a mayor Renta hogar 2017, menor % Cs.",2,nivel2
+"### Instrucción:
+¿A qué municipio pertenece la seccion 0801905032 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 0801905032 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",La sección 0801905032 en las elecciones de Noviembre 2019 pertenece al municipio Barcelona.,1,nivel1
+"### Instrucción:
+¿Cuántos votos totales hubo en la provincia de La Coruña en Noviembre 2019?
+
+### Contexto:
+Elección: Noviembre 2019, Operación: suma
+
+### Respuesta:","En la provincia de La Coruña en Noviembre 2019 hubo 614,200 votos totales.",2,nivel2
+"### Instrucción:
+¿En qué provincia fue mayor % Cs en la elección de Abril 2019: Ávila o Orense?
+
+### Contexto:
+Año: Abril 2019, Variable: % Cs
+
+### Respuesta:","En Abril 2019, % Cs fue mayor en Ávila. Valores: Ávila: 16.34%, Orense: 10.18%.",2,nivel2
+"### Instrucción:
+¿Cuáles son las 10 provincias con mayor Participación en la elección de Abril 2019?
+
+### Contexto:
+Año: Abril 2019, Variable: Participación, Top: 10
+
+### Respuesta:","Las 10 provincias con mayor Participación en la elección de Abril 2019 son: 1. Segovia (0.81%), 2. Valladolid (0.81%), 3. Guadalajara (0.81%), 4. Palencia (0.81%), 5. La Rioja (0.80%), 6. Ávila (0.80%), 7. Cuenca (0.80%), 8. Burgos (0.79%), 9. Madrid (0.79%), 10. Toledo (0.79%)",2,nivel2
+"### Instrucción:
+¿Cuál es el resultado de la columna edad_90-94 en la sección 3501604060 en la elección Abril 2019?
+
+### Contexto:
+Datos de 3501604060 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna edad_90-94 de la sección 3501604060 en la elección Abril 2019 es 10.0,1,nivel1
+"### Instrucción:
+¿A qué provincia pertenece la sección 0408401001 en la elección Noviembre 2019 y cuál es su renta salarios 2018?
+
+### Contexto:
+Datos de 0408401001 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",La sección 0408401001 en la elección Noviembre 2019 pertenece a la provincia Almería y su renta de salarios 2018 es de 6030.0.,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna edad_65-69 en la sección 2816102001 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 2816102001 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna edad_65-69 de la sección 2816102001 en la elección Noviembre 2019 es 96.0,1,nivel1
+"### Instrucción:
+¿A qué municipio pertenece la seccion 0704003007 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 0704003007 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",La sección 0704003007 en las elecciones de Noviembre 2019 pertenece al municipio Palma.,1,nivel1
+"### Instrucción:
+¿Cuál fue la participación electoral en la sección 4625010004 en las elecciones de Noviembre 2019?
+
+### Contexto:
+Datos de 4625010004 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",La participación electoral en la sección 4625010004 en las elecciones de Noviembre 2019 la participación fue del 69.40%.,1,nivel1
+"### Instrucción:
+¿Cuál es el resultado de la columna PP en la sección 0406201001 en la elección Abril 2019?
+
+### Contexto:
+Datos de 0406201001 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna PP de la sección 0406201001 en la elección Abril 2019 es 279,1,nivel1
+"### Instrucción:
+¿En qué comunidad fue mayor % Cs en la elección de Noviembre 2019: Extremadura o Castilla - La Mancha?
+
+### Contexto:
+Año: Noviembre 2019, Variable: % Cs
+
+### Respuesta:","En Noviembre 2019, % Cs fue mayor en Extremadura. Valores: Extremadura: 7.02%, Castilla - La Mancha: 6.01%.",2,nivel2
+"### Instrucción:
+Considerando los datos proporcionados de 10 municipios españoles, analice la relación entre la fragmentación del voto a la derecha del espectro político (PP, VOX, Cs) y el nivel socioeconómico (medido por la renta por persona), controlando por el efecto de la participación electoral. ¿En qué tipo de municipios, según su renta, se observa una mayor concentración del voto de derechas en un solo partido frente a una división entre los tres? ¿Cómo interactúa la participación en esta dinámica y qué implicaciones podría tener este patrón para la competencia electoral en las circunscripciones analizadas?
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","Para abordar esta cuestión compleja, se realiza un análisis en tres pasos: 1) Medir la fragmentación del voto de derechas, 2) Relacionarla con la renta por persona, y 3) Introducir la participación como variable de control. **1. Cálculo del Índice de Fragmentación del Voto de Derechas (IFVD):** Se define el bloque de derechas como la suma de los votos de PP, VOX y Ciudadanos (Cs) en cada municipio. El IFVD se calcula usando el Índice Herfindahl-Hirschman (HHI) para este subconjunto de partidos. Un HHI alto indica concentración (un partido dominante), mientras que uno bajo indica fragmentación (voto repartido). Fórmula: `IFVD = (%PP_bloque)^2 + (%VOX_bloque)^2 + (%Cs_bloque)^2`, donde %partido_bloque = %voto_partido / (%PP+%VOX+%Cs). Resultados clave: *   **Municipios con alta concentración (IFVD > 0.5):** Júzcar (VOX domina, IFVD≈0.44, pero alto %VOX crudo), Calamocha (PP domina, IFVD≈0.46), Guadix (PP y PSOE empatan, pero derecha concentrada en PP). En estos, un partido acapara >50% del voto de derechas. *   **Municipios con alta fragmentación (IFVD < 0.4):** Zaragoza, Gerena, Cartagena, Catarroja, Madrid. En estos, el voto de derechas se reparte de forma más equitativa entre los tres partidos. **2. Relación con la Renta por Persona (Controlada por Participación):** Se observa una tendencia no lineal pero reveladora: *   **Municipios de renta más baja (<9,300€):** Júzcar (8.984€) y Gerena (9.026€) muestran patrones opuestos. Júzcar tiene alta concentración en VOX (el partido con mayor % en crudo, 0.4), mientras Gerena tiene fragmentación (PSOE gana, pero derecha repartida). La diferencia clave es la **participación**: muy alta en Júzcar (0.8) y media en Gerena (0.7). Esto sugiere que en contextos de baja renta, una alta participación puede movilizar un voto de derechas más radical y concentrado en VOX. *   **Municipios de renta media-alta (>9,700€):** Barakaldo (9.789€) y Calamocha (10.072€) también muestran patrones opuestos. Barakaldo (con participación baja, 0.5) tiene una presencia casi nula de partidos de derecha tradicionales (PP, Cs, VOX=0). Calamocha (participación 0.7) muestra concentración en el PP. Esto indica que en rentas más altas, la participación media-alta se asocia con el dominio del PP, mientras una baja participación (como en Barakaldo) puede correlacionarse con un sistema de partidos completamente diferente, dominado por el eje PSOE-UP. *   **Municipio atípico:** Madrid (renta 9.573€, participación 0.6) presenta una fragmentación moderada-alta de la derecha, lo que refleja su carácter de capital diversa y competitiva. **3. Síntesis e Implicaciones:** El análisis revela que la relación entre renta y concentración del voto de derechas **está moderada por la participación electoral**. *   **Escenario de Mayor Riesgo para el PP:** Se da en municipios de renta media-baja a media (ej. Cartagena, Zaragoza, Catarroja) con alta participación (~0.7-0.8). Aquí, el voto de derechas se fragmenta entre PP, Cs y VOX, diluyendo su potencial para ganar al PSOE, que a menudo es el partido más votado en estos datos. *   **Escenario de Dominio de la Derecha:** Aparece en dos contextos: 1) Municipios de renta baja con participación muy alta, donde VOX puede emerger como fuerza hegemónica de derechas (ej. Júzcar). 2) Municipios de renta más alta con participación media-alta, donde el PP mantiene su dominio tradicional (ej. Calamocha). *   **Contexto Español:** Este patrón refleja la transformación del sistema de partidos español tras la crisis de 2008 y la llegada de nuevos competidores (Cs, VOX). La fragmentación a la derecha del centro, especialmente en municipios con rentas medias y alta participación, ilustra la **competencia intra-bloque** y explica la volatilidad electoral y la dificultad para formar mayorías estables. Para el PP, la estrategia debe diferir: en zonas de renta baja, el reto es contener a VOX; en zonas de renta media, recuperar a votantes de Cs; y en zonas de renta alta, consolidar su liderazgo. **Limitaciones del Análisis:** La muestra es pequeña (n=10) y el dato de % mayores de 65 años es 0 en todos, lo que impide controlar por edad, un factor crucial. Además, las rentas son de 2017 y los resultados electorales no están fechados, por lo que la causalidad debe interpretarse con cautela. No obstante, el ejercicio identifica relaciones multivariable sugerentes para una investigación más profunda.",3,nivel3
+"### Instrucción:
+¿Qué relación hay entre % VOX y Renta Pensiones 2018 en los municipios?
+
+### Contexto:
+Variables: % VOX y Renta Pensiones 2018
+
+### Respuesta:","Analizando 10 municipios, los que tienen mayor Renta Pensiones 2018 tienen un % VOX de 0.1%, mientras que los de menor Renta Pensiones 2018 tienen 0.1%. Esto sugiere una relación negativa: a mayor Renta Pensiones 2018, menor % VOX.",2,nivel2
+"### Instrucción:
+¿Cómo evolucionó el porcentaje de voto a UP en San Miguel de Bernuy entre Abril 2019 y Noviembre 2019?
+
+### Contexto:
+Municipio: San Miguel de Bernuy, Partido: UP, Años: Abril 2019 y Noviembre 2019
+
+### Respuesta:",El UP en San Miguel de Bernuy pasó de 2.91% en Abril 2019 a 1.01% en Noviembre 2019. Esto representa una disminución de 1.90 puntos porcentuales (65.3% menos).,2,nivel2
+"### Instrucción:
+¿Cuál fue el % VOX mediano en el municipio de Amorebieta-Etxano en Noviembre 2019?
+
+### Contexto:
+Año: Noviembre 2019, Ámbito: municipio, Variable: % VOX
+
+### Respuesta:",El % VOX mediano en el municipio de Amorebieta-Etxano en Noviembre 2019 fue de 1.10%.,2,nivel2
+"### Instrucción:
+¿Cuáles son las 5 provincias con mayor Participación en la elección de Noviembre 2019?
+
+### Contexto:
+Año: Noviembre 2019, Variable: Participación, Top: 5
+
+### Respuesta:","Las 5 provincias con mayor Participación en la elección de Noviembre 2019 son: 1. Guadalajara (0.76%), 2. Segovia (0.75%), 3. Valladolid (0.75%), 4. Ávila (0.74%), 5. Cuenca (0.74%)",2,nivel2
+"### Instrucción:
+¿Cuál es el resultado de la columna % PP en la sección 3205405001 en la elección Abril 2019?
+
+### Contexto:
+Datos de 3205405001 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna % PP de la sección 3205405001 en la elección Abril 2019 es 0.2105734767025089,1,nivel1
+"### Instrucción:
+Considerando los datos proporcionados, ¿cómo se relaciona la volatilidad del voto hacia partidos emergentes o de derecha (específicamente VOX y Cs) con la renta personal media y la participación electoral en municipios de diferentes provincias, y qué patrones geográficos y de fragmentación del voto se pueden identificar en comparación con el comportamiento medio nacional?
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","Para analizar esta relación, primero definimos la ""volatilidad hacia partidos emergentes/derecha"" como la suma del porcentaje de voto de VOX y Cs en cada municipio. Calculamos este indicador para cada municipio y lo comparamos con la renta personal y la participación. **Cálculos específicos:** 1. **Volatilidad (VOX+Cs) por municipio:** *   Zaragoza: 0.1 + 0.2 = 0.3 *   Gerena: 0.1 + 0.1 = 0.2 *   Barakaldo: 0.0 + 0.0 = 0.0 *   Las Gabias: 0.3 + 0.1 = 0.4 *   Catarroja: 0.1 + 0.2 = 0.3 *   Guadix: 0.2 + 0.0 = 0.2 *   Cartagena: 0.2 + 0.2 = 0.4 *   Júzcar: 0.4 + 0.1 = 0.5 *   Calamocha: 0.1 + 0.2 = 0.3 *   Madrid: 0.1 + 0.1 = 0.2 2. **Relación con variables:** *   **Renta Personal:** No se observa una correlación lineal clara. Municipios con volatilidad alta (0.4-0.5) como Júzcar (8984 €), Las Gabias (9738 €) y Cartagena (9314 €) tienen rentas por debajo, en torno a y ligeramente por debajo de la media nacional (9437 €), respectivamente. El municipio con mayor renta (Calamocha, 10072 €) tiene una volatilidad media (0.3). Barakaldo, con la segunda renta más alta (9789 €), tiene volatilidad 0. *   **Participación:** Tampoco hay un patrón directo. Júzcar (volatilidad 0.5) y Catarroja (volatilidad 0.3) tienen la participación más alta (0.8), mientras que Barakaldo (volatilidad 0.0) tiene la más baja (0.5). La participación media de la muestra (0.7) se encuentra en municipios con volatilidad diversa. **Interpretación de patrones y contexto:** 1.  **Patrón Geográfico y Fragmentación:** Se identifica una clara variación territorial. En provincias como **Granada** (Las Gabias, Guadix) y **Murcia** (Cartagena), el voto combinado a VOX y Cs es alto (0.4 y 0.2, 0.4 respectivamente), indicando una fuerte fragmentación del voto de derecha/centro-derecha y una presencia consolidada de estas opciones. En contraste, en **Vizcaya** (Barakaldo) este voto es inexistente, mostrando un sistema de partidos completamente diferente dominado por PSOE y UP (ambos 0.2). **Madrid** (capital) y **Sevilla** (Gerena) presentan una volatilidad moderada-baja (0.2), sugiriendo un mayor arraigo de los partidos tradicionales (PP y PSOE) en estos contextos. 2.  **Contexto Político:** La alta volatilidad en municipios del sureste (Granada, Murcia) y en Júzcar (Málaga) coincide con regiones donde el surgimiento de VOX ha sido más intenso, a menudo captando votantes descontentos del PP y, en algunos casos, de Cs. La ausencia total en Barakaldo refleja el diferente eje político de la CAV, donde la competencia se sitúa principalmente entre partidos nacionalistas y la izquierda. 3.  **Relación Socioeconómica:** La falta de correlación evidente con la renta personal en esta muestra limitada sugiere que, a este nivel de agregación municipal, el apoyo a estos partidos emergentes podría estar más ligado a factores culturales, identitarios o de oferta política local que a un puro determinante económico lineal. La participación parece responder más a dinámicas locales (ej., alta en Catarroja y Júzcar) que al atractivo específico de estas formaciones. **Limitaciones del análisis:** 1.  La muestra es muy pequeña (10 municipios) y no representativa a nivel nacional, por lo que los patrones identificados no son generalizables. 2.  El dato de ""% mayores 65 años"" es 0 en todos los casos, lo que indica un problema en los datos de muestra que impide analizar una variable demográfica crucial. 3.  Se analizan resultados electorales como variables aisladas, sin datos de tendencias temporales (elecciones anteriores), lo que limitaría la verdadera definición de ""volatilidad"". 4.  La ""renta personal 2017"" es un promedio municipal que oculta desigualdades internas, que podrían ser más determinantes para el comportamiento electoral que la media.",3,nivel3
+"### Instrucción:
+¿Cuál es el resultado de la columna edad_55-59 en la sección 1808702022 en la elección Abril 2019?
+
+### Contexto:
+Datos de 1808702022 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El resultado de la columna edad_55-59 de la sección 1808702022 en la elección Abril 2019 es 40.0,1,nivel1
+"### Instrucción:
+Considerando los datos de las 10 secciones censales, analice la relación entre la fragmentación del voto hacia partidos de centro-derecha y derecha (PP, Cs, VOX) y el nivel socioeconómico del área, controlando por la variable geográfica de la provincia. En concreto, para las provincias con más de una observación (Barcelona y Madrid), ¿existe una correlación significativa entre la renta personal media y la concentración o dispersión del voto dentro de ese bloque ideológico? Calcule los índices de concentración (Herfindahl-Hirschman) del voto de centro-derecha/derecha para cada sección, correlacione con la renta y discuta las implicaciones para la competencia intra-bloque y la estrategia electoral.
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","Para abordar esta pregunta, realizaremos un análisis en tres pasos: 1) Cálculo del índice de concentración del voto de centro-derecha/derecha, 2) Análisis de correlación por provincia, y 3) Interpretación contextual. **1. Cálculo del Índice de Herfindahl-Hirschman (HHI) para el bloque de centro-derecha/derecha:** El bloque se define como la suma de los votos para PP, Cs y VOX en cada sección. El HHI mide la concentración del mercado (aquí, del voto dentro del bloque). Se calcula sumando los cuadrados de la cuota de mercado de cada partido dentro del bloque. Un HHI alto (máximo 10,000 si un partido tiene el 100%) indica alta concentración (un partido dominante), mientras que uno bajo indica fragmentación (voto repartido). Para cada sección: - **Bloque CD/Derecha** = %PP + %Cs + %VOX - **Cuota dentro del bloque** para cada partido = (%Partido / Bloque CD/Derecha) - **HHI** = (Cuota_PP² + Cuota_Cs² + Cuota_VOX²) * 10,000 Aplicando a las secciones de Barcelona y Madrid: *Barcelona (3 secciones):* 1. Bloque: 0.1+0.1+0.0=0.2. Cuotas: PP=0.5, Cs=0.5, VOX=0. HHI=(0.5²+0.5²+0²)*10000 = 5000. 2. Bloque: 0.2+0.1+0.1=0.4. Cuotas: PP=0.5, Cs=0.25, VOX=0.25. HHI=(0.5²+0.25²+0.25²)*10000 = 3750. 3. Bloque: 0.1+0.0+0.0=0.1. Cuotas: PP=1.0, Cs=0, VOX=0. HHI=10000. *Renta personal media asociada:* 18962, 30210, 19593. *Madrid (2 secciones):* 1. (Madrid capital): Bloque: 0.1+0.2+0.1=0.4. Cuotas: PP=0.25, Cs=0.5, VOX=0.25. HHI=(0.25²+0.5²+0.25²)*10000 = 3750. 2. (San Sebastián de los Reyes): Bloque: 0.2+0.3+0.2=0.7. Cuotas: PP=0.286, Cs=0.429, VOX=0.286. HHI≈(0.082+0.184+0.082)*10000 = 3480. *Renta personal media asociada:* 21615, 17628. **2. Análisis de Correlación:** Calculamos la correlación de Pearson entre el HHI (concentración) y la Renta Personal para cada provincia. *Provincia de Barcelona (n=3):* Pares (Renta, HHI): (18962, 5000), (30210, 3750), (19593, 10000). Coeficiente de correlación (r): **-0.755**. Esto indica una correlación negativa moderadamente fuerte. A mayor renta, tiende a haber MENOS concentración (más fragmentación/competencia dentro del bloque). La sección más rica (30210€) tiene el HHI más bajo (3750), mostrando un voto muy repartido entre PP, Cs y VOX. *Provincia de Madrid (n=2):* Pares (Renta, HHI): (21615, 3750), (17628, 3480). Con solo dos puntos, la correlación no es estadísticamente fiable, pero muestra una tendencia débil positiva (a mayor renta, HHI ligeramente mayor, es decir, más concentración). La diferencia es mínima (3750 vs 3480). **3. Interpretación y Contexto:** Los resultados sugieren patrones provinciales distintos: - En **Barcelona**, en áreas de mayor renta (como la sección con 30,210€), el electorado de centro-derecha parece más dispuesto a distribuir su voto entre las tres opciones, resultando en una fuerte competencia intra-bloque. Esto podría reflejar un electorado más informado, volátil o con preferencias ideológicas más matizadas dentro de la derecha. La sección de menor renta (19,593€) muestra una concentración absoluta en el PP (HHI=10000), lo que podría indicar un voto más tradicional o menos permeable a nuevas opciones como Cs o VOX. - En **Madrid**, con datos limitados, la competencia intra-bloque es alta en ambas secciones (HHI alrededor de 3600), con Cs liderando la cuota. La escasa variación con la renta sugiere que la fragmentación del voto de derechas podría ser un fenómeno más generalizado en el área metropolitana de Madrid, independientemente del nivel socioeconómico del barrio. **Implicaciones Estratégicas:** 1. **Para el PP:** En contextos como Barcelona de alta renta, enfrenta un desafío doble: retener a su electorado tradicional en áreas de renta baja-media y competir agresivamente con Cs y VOX en áreas ricas. Su posición dominante no está garantizada. 2. **Para Cs y VOX:** Su oportunidad de crecimiento parece mayor en áreas socioeconómicamente más favorecidas, donde el voto de derechas está menos ""capturado""",3,nivel3
+"### Instrucción:
+Considerando los datos de los municipios del área metropolitana de Barcelona, analice la relación entre la renta personal media y el apoyo a los partidos políticos, con especial atención al PSOE y UP. ¿Existe una correlación significativa entre un mayor nivel de renta y un patrón de voto específico? Calcule la correlación de Pearson entre la renta personal y el voto al PSOE, y entre la renta personal y el voto a UP. Interprete los resultados en el contexto de la estructura socioeconómica de la región y la oferta política de la izquierda española, teniendo en cuenta también la participación electoral como posible variable moderadora.
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","Para abordar esta cuestión, realizaremos un análisis cuantitativo en dos fases: cálculo de correlaciones e interpretación contextual. **1. Cálculo de Correlaciones:** Primero, organizamos los datos relevantes de los 10 registros: *   Renta Personal (X): [14462, 11419, 10658, 11120, 11506, 13831, 13463, 18824, 14208, 24117] *   % Voto PSOE (Y1): [0.2, 0.3, 0.5, 0.3, 0.3, 0.3, 0.3, 0.1, 0.2, 0.2] *   % Voto UP (Y2): [0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.1, 0.2, 0.2] Aplicando la fórmula de la correlación de Pearson (r = Σ[(xi - x̄)(yi - ȳ)] / √[Σ(xi - x̄)² Σ(yi - ȳ)²]), obtenemos: *   **Correlación Renta Personal - Voto PSOE: r ≈ -0.71** *   **Correlación Renta Personal - Voto UP: r ≈ -0.30** **2. Interpretación y Análisis:** **a) Hallazgos Cuantitativos:** Existe una **correlación negativa fuerte y significativa** entre la renta personal y el voto al PSOE. A medida que aumenta la renta, el apoyo al PSOE tiende a disminuir de forma notable. En contraste, la correlación con el voto a UP es **negativa y débil**, lo que sugiere que el apoyo a esta formación es más estable a lo largo del espectro de renta en esta muestra, con una ligera tendencia a ser menor en áreas más ricas. **b) Contexto Socioeconómico y Electoral:** Los datos reflejan la estructura de un área metropolitana con importantes contrastes internos. Municipios como Sabadell o el distrito de Barcelona con renta de 24.117€ presentan las rentas más altas y un apoyo al PSOE significativamente inferior (10%-20%). Por el contrario, en municipios con rentas más bajas (como Sant Joan Despí, con 10.658€), el PSOE alcanza su máximo (50%). Esto indica que, en este contexto geográfico y con estos datos, **el PSOE muestra un perfil de apoyo más concentrado en zonas de renta media-baja**. UP, con una variación menor (entre 10% y 20%), presenta un voto más transversal en términos de renta, aunque ligeramente más robusto en áreas de renta moderada. **c) Síntesis y Profundización:** Este patrón puede interpretarse a la luz de la oferta política y la composición social del área de Barcelona. La **correlación negativa fuerte para el PSOE** podría señalar que, en esta zona, su electorado tiene una base más ligada a clases trabajadoras y medias-bajas. La **débil correlación para UP** sugiere que su mensaje, si bien de izquierda, atrae a un segmento ligeramente más diverso en términos económicos dentro de la muestra, posiblemente captando tanto voto de clases medias con alta conciencia social como voto tradicional de izquierdas. Un factor crucial es la **participación electoral**, que es alta y uniforme (μ=0.8), descartando en este caso que las diferencias en voto se deban a una movilización diferencial. La casi ausencia de voto a VOX y los bajos resultados del PP reflejan el carácter político particular de Cataluña, donde la competencia se da principalmente entre partidos de izquierda (PSOE, UP) y fuerzas nacionalistas (no presentes en estos datos agregados), lo cual condiciona enormemente el espacio electoral. **Conclusión:** En la muestra analizada del área de Barcelona, se confirma una relación inversa entre nivel de renta y voto a la izquierda, siendo esta relación mucho más acusada para el PSOE que para UP. El PSOE emerge como la fuerza preferente en los municipios con menor renta personal, mientras que UP mantiene un apoyo más constante. Este mapa electoral está profundamente marcado por el contexto catalán, donde el eje nacional y la debilidad histórica de la derecha española reconfiguran los alineamientos clásicos entre clase social y voto.",3,nivel3
+"### Instrucción:
+¿A qué municipio pertenece la seccion 2807911160 en la elección Abril 2019?
+
+### Contexto:
+Datos de 2807911160 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La sección 2807911160 en las elecciones de Abril 2019 pertenece al municipio Madrid.,1,nivel1
+"### Instrucción:
+¿Cúal fue la participación en la sección 1102002010 en la elección Noviembre 2019 y que porcentaje obtuvo el PP?
+
+### Contexto:
+Datos de 1102002010 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",La participación en la sección 1102002010 en la elección Noviembre 2019 fue del 57.19% y el PP obtuvo un porcentaje del 13.40%.,1,nivel1
+"### Instrucción:
+Considerando los datos de los municipios de la provincia de Madrid, ¿cómo se relaciona la fragmentación del voto (calculada mediante el Índice de Fragmentación de Rae) con la renta personal media, y qué patrón geográfico y estratégico sugiere esto para la competencia entre el bloque de derechas (PP+VOX+Cs) y el de izquierdas (PSOE+UP) en áreas de diferente nivel socioeconómico?
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","Para abordar esta pregunta, realizaremos un análisis en tres pasos: cálculo de la fragmentación, análisis de su correlación con la renta, y evaluación de los bloques electorales. **1. Cálculo del Índice de Fragmentación (IF) de Rae:** El índice se calcula como IF = 1 - Σ(p_i²), donde p_i es la proporción de voto de cada partido. Consideramos los cinco partidos listados (PP, PSOE, VOX, Cs, UP). Un valor más cercano a 1 indica mayor fragmentación. Ejemplos: *   **Madrid (1er registro):** IF = 1 - (0.5² + 0.1² + 0.2² + 0.1² + 0.0²) = 1 - (0.25 + 0.01 + 0.04 + 0.01 + 0) = 1 - 0.31 = **0.69** *   **Rivas-Vaciamadrid:** IF = 1 - (0.1² + 0.3² + 0.1² + 0.1² + 0.2²) = 1 - (0.01 + 0.09 + 0.01 + 0.01 + 0.04) = 1 - 0.16 = **0.84** *   **Leganés:** IF = 1 - (0.1² + 0.5² + 0.1² + 0.1² + 0.1²) = 1 - (0.01 + 0.25 + 0.01 + 0.01 + 0.01) = 1 - 0.29 = **0.71** Calculando para todos los municipios, observamos un rango de fragmentación. Los municipios con mayor dominio de un partido (como Leganés con PSOE al 50% o el primer registro de Madrid con PP al 50%) tienen un IF más bajo (~0.71). Aquellos con voto más repartido, como Rivas-Vaciamadrid, alcanzan un IF mayor (~0.84). **2. Relación con la Renta Personal Media:** Al correlacionar el IF con la renta personal de cada observación, se identifica una tendencia **negativa no lineal pero perceptible**. Las áreas con rentas más altas (ej. primer y octavo registro de Madrid, con rentas de ~30.200€ y ~26.200€) tienden a presentar una fragmentación moderada-baja (IF ~0.69-0.78), dominadas por el PP y VOX. Las áreas de renta media y baja (entre ~8.000€ y ~15.500€) muestran una dispersión mayor en su IF (de 0.71 a 0.84), pero con varios casos de alta fragmentación. El municipio con menor renta (Leganés, 8.016€) tiene un IF bajo (0.71) debido a la clara hegemonía del PSOE. **3. Análisis de Bloques y Patrón Geográfico-Estratégico:** Agrupamos los partidos en: *   **Bloque de derechas:** PP + VOX + Cs *   **Bloque de izquierdas:** PSOE + UP Al calcular la fuerza relativa de cada bloque por municipio, surge un patrón claro: *   **Áreas de alta renta (Madrid-centro/rico):** El bloque de derechas es abrumadoramente dominante (ej. 80% en el primer registro, 70% en el octavo). La competencia es casi inexistente, y la fragmentación dentro del bloque es baja (predomina claramente el PP). *   **Áreas de renta media-baja y baja (periferia urbana y ciudades dormitorio como Rivas, Parla, Pinto, Leganés, Alcalá):** La competencia entre bloques es feroz. En la mayoría, el bloque de izquierdas supera ligeramente al de derechas, pero con márgenes estrechos (ej. en Rivas: 50% izquierda vs 30% derecha; en Pinto: 50% vs 40%). Aquí, la fragmentación *interna* de cada bloque es clave. En la izquierda, el voto se reparte entre PSOE y UP; en la derecha, entre PP, VOX y Cs. Esto genera una alta fragmentación general (IF alto) y convierte a estos municipios en **campo de batalla estratégico**. **Conclusión y Contexto:** El análisis revela una **clara estratificación socioeconómica del voto en la Comunidad de Madrid**. Las zonas de alta renta constituyen **feudos estables y consolidados del bloque conservador**, con baja fragmentación. La periferia y las ciudades de menor renta son el **terreno de disputa electoral decisivo**, caracterizado por una alta fragmentación que refleja la volatilidad del electorado y la lucha por el centro-izquierda y el centro-derecha. Estratégicamente, esto implica que: 1.  Para el bloque de derechas, el reto es consolidar su ventaja en áreas ricas y reducir la fuga de votos hacia Cs o VOX en las áreas disputadas para no fragmentar su apoyo. 2.  Para el bloque de izquierdas, el éxito depende de su capacidad para generar coaliciones estables o transferencias de voto táctico entre PSOE y UP en los municipios fragmentados de renta baja y media. 3.  La elevada participación (media del 80%) en casi todos los escenarios subraya la intensidad de la competencia. El caso de Leganés, con menor participación (60%) y hegemonía socialista, es la excepción que confirma la regla: donde un partido logra una mayoría clara, la fragmentación y la participación competitiva disminuyen. Este patrón es consistente con las dinámicas políticas españolas recientes, donde la aparición de nuevos partidos (Cs, VOX, UP) ha fragmentado el sistema, especialmente en áreas urbanas y metropolitanas, transformando competencias bipartidistas en batallas multipartidistas por",3,nivel3
+"### Instrucción:
+¿Qué porcentaje de votos obtuvo IU en la sección 0810105034 en las elecciones de Abril 2019?
+
+### Contexto:
+Datos de 0810105034 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",El partido IU obtuvo en la sección 0810105034 el 0.00% de votos en las eleccione de Abril 2019.,1,nivel1
+"### Instrucción:
+¿A qué CCAA pertenece la seccion 4607201004 en la elección Abril 2019?
+
+### Contexto:
+Datos de 4607201004 en Abril 2019: 1 secciones electorales
+
+### Respuesta:",La sección 4607201004 en las elecciones de Abril 2019 pertenece a la CCAA C. Valenciana.,1,nivel1
+"### Instrucción:
+¿En qué comunidad fue mayor % PP en la elección de Noviembre 2019: Cataluña o Asturias?
+
+### Contexto:
+Año: Noviembre 2019, Variable: % PP
+
+### Respuesta:","En Noviembre 2019, % PP fue mayor en Asturias. Valores: Cataluña: 7.30%, Asturias: 23.38%.",2,nivel2
+"### Instrucción:
+Considerando los municipios con renta personal por debajo de la media nacional (μ=9836.0), ¿cómo se correlaciona esta variable con el apoyo a partidos de izquierda (PSOE y UP) y la participación electoral, y qué patrones geográficos o de fragmentación del voto se observan en comparación con los municipios de renta más alta?
+
+### Contexto:
+Análisis complejo basado en datos electorales y socioeconómicos
+
+### Respuesta:","Para analizar esto, primero se filtran los municipios con renta personal por debajo de la media (9836.0). Estos son: Sevilla (5055) y Ceuta (3431). En estos dos municipios de baja renta: - **Apoyo a izquierda (PSOE+UP)**: En Sevilla, PSOE (0.0) + UP (0.0) = 0.0. En Ceuta, PSOE (0.9) + UP (0.1) = 1.0. El promedio de apoyo a la izquierda en estos municipios es (0.0 + 1.0)/2 = 0.5 (50%). - **Participación electoral**: Sevilla (0.5), Ceuta (0.6). Promedio = (0.5+0.6)/2 = 0.55 (55%). - **Fragmentación del voto**: En Sevilla, el voto se reparte entre VOX (0.2) y Cs (0.1), con un 70% restante no contabilizado en los partidos listados (probablemente otros o abstención en el cómputo sobre votantes). En Ceuta, el voto es mayoritariamente para el PSOE (0.9), con baja fragmentación. Ahora, se comparan con los 8 municipios con renta personal igual a 11234 (por encima de la media): - **Apoyo a izquierda (PSOE+UP)**: Solo 3 de 8 municipios tienen voto a estos partidos. Los cálculos son: Fuembellida (0.7+0.1=0.8), Illán de Vacas (0.0+0.3=0.3), Valacloche (0.0+0.2=0.2). El promedio para el grupo de alta renta es (0.8+0.3+0.2+0+0+0+0+0)/8 = 1.3/8 = 0.1625 (16.25%). - **Participación electoral**: Promedio = (0.8+0.9+0.8+0.7+1.0+1.0+1.0+0.9)/8 = 7.1/8 = 0.8875 (88.75%). - **Fragmentación del voto**: En este grupo, 5 de 8 municipios muestran apoyo a 3 o más partidos listados (Castilnuevo, Lanzuela, Fuembellida, Valacloche, Illán de Vacas), indicando mayor fragmentación. El PP tiene un fuerte dominio en municipios sin voto a la izquierda (Valdeprado, Maján, Almohaja). **Interpretación y patrones**: 1. **Correlación renta-voto**: Existe una correlación negativa inesperada en esta muestra: los municipios de renta más baja muestran un apoyo promedio a la izquierda (50%) significativamente mayor que los de renta alta (16.25%). Sin embargo, esto está fuertemente distorsionado por el caso atípico de Ceuta, donde el PSOE obtuvo el 90%. Sin Ceuta, el promedio en renta baja sería 0%. 2. **Correlación renta-participación**: La participación es notablemente más baja en los municipios de renta baja (55% vs 88.75%), lo que podría indicar un mayor desencanto o desvinculación política en contextos de menor renta. 3. **Patrón geográfico**: Los municipios de renta baja son Sevilla (Andalucía) y Ceuta (ciudad autónoma), ambos con contextos socioeconómicos y políticos muy específicos y diferentes entre sí. Los de renta alta son principalmente de la ""España vaciada"" (Soria, Guadalajara, Teruel, Toledo), con estructuras de población muy envejecidas (Almohaja tiene % mayores 65 años = 1, aunque la renta es igual) y donde el PP mantiene bastiones fuertes. 4. **Fragmentación**: La fragmentación del voto es más común en municipios de renta alta, con presencia significativa de VOX y Cs junto al PP, mientras que en renta baja los patrones son más extremos (dominio absoluto de un partido o dispersión hacia ""otros""). **Contexto y limitaciones**: - **Contexto**: Ceuta es un caso especial con dinámicas políticas propias. La fuerte presencia del PP en la España rural vaciada es un patrón histórico, mientras que la emergencia de VOX y Cs aparece más en estos municipios, fragmentando el voto de derecha/centro-derecha. - **Limitaciones**: La muestra es muy pequeña (10 municipios) y no representativa. La variable ""renta persona"" tiene poca variación (solo dos valores distintos entre los municipios listados). El dato de Ceuta es un *outlier* que sesga totalmente el análisis. Además, el porcentaje de ""mayores 65 años"" es mayoritariamente 0, lo que no permite analizar su efecto. La ""renta hogar"" no se ha utilizado, pero muestra una discrepancia (Ceuta tiene renta personal baja pero renta hogar media), sugiriendo tamaños de hogar diferentes.",3,nivel3
+"### Instrucción:
+¿Cómo evolucionó el porcentaje de voto a Cs en Fombuena entre Abril 2019 y Noviembre 2019?
+
+### Contexto:
+Municipio: Fombuena, Partido: Cs, Años: Abril 2019 y Noviembre 2019
+
+### Respuesta:",El Cs en Fombuena pasó de 14.29% en Abril 2019 a 0.00% en Noviembre 2019. Esto representa una disminución de 14.29 puntos porcentuales (100.0% menos).,2,nivel2
+"### Instrucción:
+¿Cúal fue la participación en la sección 2511001003 en la elección Noviembre 2019 y que porcentaje obtuvo el PP?
+
+### Contexto:
+Datos de 2511001003 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",La participación en la sección 2511001003 en la elección Noviembre 2019 fue del 72.67% y el PP obtuvo un porcentaje del 3.63%.,1,nivel1
+"### Instrucción:
+¿Qué porcentaje de votos obtuvo el PP en la sección 2818101016 en las elecciones de Noviembre 2019?
+
+### Contexto:
+Datos de 2818101016 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El partido PP obtuvo en la sección 2818101016 el 31.63% de votos en las eleccione de Noviembre 2019.,1,nivel1
+"### Instrucción:
+¿Cuál es el tamaño del censo y la población total de la sección 0703306001 en la elección Noviembre 2019?
+
+### Contexto:
+Datos de 0703306001 en Noviembre 2019: 1 secciones electorales
+
+### Respuesta:",El censo en la sección 0703306001 en la elección de Noviembre 2019 fue de 1313 habitantes y la población total fue de 2009.0.,1,nivel1
+"### Instrucción:
+¿Qué diferencia hay entre UP y PSOE en el municipio Albolote en Abril 2019?
+
+### Contexto:
+Año: Abril 2019, Partidos: UP y PSOE, Ámbito: municipio
+
+### Respuesta:","En la elección de Abril 2019 en el municipio Albolote, el partido UP obtuvo el 15.48%, y el partido PSOE obtuvo el 31.40%. La diferencia es de 15.92 puntos porcentuales a favor de PSOE.",2,nivel2

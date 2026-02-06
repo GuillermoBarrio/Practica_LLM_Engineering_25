@@ -1,0 +1,11 @@
+{
+  "total_examples": 1800,
+  "split_sizes": {
+    "train": 1440,
+    "val": 180,
+    "test": 180
+  },
+  "creation_date": "2026-01-29T11:41:34.357760",
+  "seed": 42,
+  "description": "Dataset electoral espa\u00f1ol para fine-tuning T5"
+}
