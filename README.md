@@ -4,7 +4,7 @@ Esta es la memoria de la práctica de LLM Engineering de Guillermo Barrio. En es
 
 He intentado sin mucho éxito hacer el RAG necesario para que el modelo ya ‘finetuneado’ tenga el contecto adecuado. 
 
-**Todos los procesos que he seguido se describen en esta memoria de la práctica, Practica_LLM_Engineering.pdf, que se recomienda leer primero.**
+**Todos los procesos que he seguido se describen en esta memoria de la práctica, Practica_LLM_Engineering_Guillermo-Barrio.pdf, que se recomienda leer primero.**
 
 En el repositorio de GitHub se encuentran los ficheros que se pueden subir a él, y son los siguientes:
 
@@ -35,3 +35,4 @@ se encuentran todos los ficheros anteriores, además de otros que, por su tamañ
 -	Otros ficheros como el material de clase, las imágenes en formato .pmg de los errores del finetuning del modelo Gemma2, o ficheros .json, creados por el código ademá de los .jsonl, que no intervienen de todas formas en la práctica.
 
 Gracias!
+
