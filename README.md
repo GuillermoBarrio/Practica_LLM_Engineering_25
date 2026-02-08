@@ -32,7 +32,8 @@ se encuentran todos los ficheros anteriores, además de otros que, por su tamañ
 
 -	Ficheros relacionados con el sistema de RAG fallido: **la carpeta electoral_rag_system, electoral_knowledge_base.pkl, electoral_knowledge_base.faiss**
 
--	Otros ficheros como el material de clase, las imágenes en formato .pmg de los errores del finetuning del modelo Gemma2, o ficheros .json, creados por el código ademá de los .jsonl, que no intervienen de todas formas en la práctica.
+-	Otros ficheros como las imágenes en formato .pmg de los errores del finetuning del modelo Gemma2, o ficheros .json, creados por el código ademá de los .jsonl, que no intervienen de todas formas en la práctica.
 
 Gracias!
+
 
